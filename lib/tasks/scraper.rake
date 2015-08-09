@@ -6,20 +6,21 @@ namespace :scraper do
   desc "scrape for players"
   task :get_player_data do
 
-    year = 2013
+    year = 2015
     header = "name,class,pos,ht,wt,rate,star,school,conf,year\n"
     file = "#{Rails.root}/db/players.csv"
     File.open(file, "w") do |csv|
       csv << header
-      
+
       CSV.foreach("#{Rails.root}/db/schools.csv", :headers => :first_row) do |row|
+        sleep(10)
         url = render_school_url(year, row)
         puts url
         doc = Nokogiri::HTML(open(url))
         table = get_player_table(doc)
 
         player_data = extract_player_data(table, row["school_id"], row["conf_id"], year)
-        
+
         player_data.each do |player|
           puts player
           csv << player
@@ -31,14 +32,14 @@ namespace :scraper do
   desc "scrape for school codes"
   task :get_school_codes do
 
-    year = 2013
+    year = 2015
     header = "school_name,school_id\n"
     file = "#{Rails.root}/db/school_codes.csv"
     File.open(file, "w") do |csv|
       csv << header
 
       conferences = ["ACC", "SEC", "BIG12", "BIG10", "PAC12", "MWEST", "AAC"]
-      
+
       conferences.each do |conference|
         url = render_conference_url(year, conference)
         doc = Nokogiri::HTML(open(url))
@@ -63,11 +64,11 @@ namespace :scraper do
   private
 
   def render_school_url(year, row)
-    "http://rivals.yahoo.com/footballrecruiting/football/recruiting/commitments/#{year}/#{row["rivals_school_name"]}-#{row["rivals_school_id"]}"
+    "https://rivals.yahoo.com/footballrecruiting/football/recruiting/commitments/#{year}/#{row["rivals_school_name"]}-#{row["rivals_school_id"]}"
   end
 
   def render_conference_url(year, school_id)
-    "http://rivals.yahoo.com/footballrecruiting/football/recruiting/teamrank/#{year}/#{school_id}/all"
+    "https://rivals.yahoo.com/footballrecruiting/football/recruiting/teamrank/#{year}/#{school_id}/all"
   end
 
   def get_player_table(doc)
