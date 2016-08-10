@@ -1,2 +1,156 @@
-name,class,pos,ht,wt,rate,star,school,conf,year
-
+name,class,pos,rate,star,school,conf,year
+Nick Crabtree,recruit,TE,5.4,2,Boise,MWC,2016
+Jake Constantine,recruit,QB,5.4,2,Boise,MWC,2016
+Bubba Ogbebor,recruit,WR,5.5,3,Boise,MWC,2016
+Julian Carter,recruit,WR,5.6,3,Boise,MWC,2016
+Robert Mahone,recruit,RB,5.2,2,Boise,MWC,2016
+Alexander Mattison,recruit,RB,5.7,3,Boise,MWC,2016
+Jordan Happle,recruit,WR,5.4,2,Boise,MWC,2016
+John Bates,recruit,TE,5.5,3,Boise,MWC,2016
+Cedrick Wilson,recruit,ATH,5.2,2,Boise,MWC,2016
+Rashaad Boddie,recruit,RB,5.5,3,Colorado State,MWC,2016
+Collin Hill,recruit,QB,5.6,3,Colorado State,MWC,2016
+Anthony Hawkins,recruit,WR,5.4,2,Colorado State,MWC,2016
+Michael Gallup,recruit,WR,5.5,3,Colorado State,MWC,2016
+Darius May,recruit,RB,5.4,2,Colorado State,MWC,2016
+Dalton Fackrell,recruit,TE,5.6,3,Colorado State,MWC,2016
+Darneail Jenkins,recruit,TE,5.6,3,Colorado State,MWC,2016
+Detrich Clark,recruit,ATH,5.4,2,Colorado State,MWC,2016
+Robert Awunganyi,recruit,WR,5.3,2,Colorado State,MWC,2016
+Donte Coleman,recruit,TE,5.6,3,Fresno,MWC,2016
+Quentin Davis,recruit,QB,5.4,2,Fresno,MWC,2016
+Deonte Perry,recruit,RB,5.4,2,Fresno,MWC,2016
+Johnny Rojas,recruit,TE,5.3,2,Fresno,MWC,2016
+Trevion Armstrong,recruit,WR,5.5,3,Nevada,MWC,2016
+Dakota Miller,recruit,QB,5.2,2,Nevada,MWC,2016
+David Harvey,recruit,WR,5.3,2,Nevada,MWC,2016
+Darius Powe,recruit,WR,5.3,2,Nevada,MWC,2016
+Miles Beach,recruit,TE,5.3,2,Nevada,MWC,2016
+Jaxson Kincaide,recruit,RB,,,Nevada,MWC,2016
+Ty Gangi,recruit,QB,5.3,2,Nevada,MWC,2016
+Kameron Miller,recruit,QB,,,New Mexico,MWC,2016
+Tevaka Tuioti,recruit,QB,5.3,2,New Mexico,MWC,2016
+Daevon Vigilant,recruit,ATH,5.4,3,New Mexico,MWC,2016
+Rhashaun Epting,recruit,ATH,5.4,2,New Mexico,MWC,2016
+Emmanuel Harris,recruit,WR,5.3,2,New Mexico,MWC,2016
+Gabe Ortega,recruit,QB,,,New Mexico,MWC,2016
+Jay Griffin,recruit,ATH,5.4,2,New Mexico,MWC,2016
+Marcus Williams,recruit,WR,,,New Mexico,MWC,2016
+Isiah Macklin,recruit,WR,5.2,2,San Diego,MWC,2016
+Will Stricklin,recruit,ATH,5.3,2,San Diego,MWC,2016
+Tayler Hawkins,recruit,ATH,5.6,3,San Diego,MWC,2016
+Chase Jasmin,recruit,RB,5.5,3,San Diego,MWC,2016
+Parker Houston,recruit,TE,5.6,3,San Diego,MWC,2016
+Parie Dedeaux,recruit,ATH,5.5,3,San Diego,MWC,2016
+Tim Wilson,recruit,WR,5.4,2,San Diego,MWC,2016
+Kyle Spalding,recruit,TE,5.3,2,San Diego,MWC,2016
+Turner Bernard,recruit,ATH,5.2,2,San Diego,MWC,2016
+Andre Collins,recruit,WR,5.4,2,UNLV,MWC,2016
+Armani Rogers,recruit,QB,5.7,3,UNLV,MWC,2016
+Giovanni Fauolo,recruit,TE,5.5,3,UNLV,MWC,2016
+Charles Williams,recruit,RB,5.5,3,UNLV,MWC,2016
+C.J. Harris,recruit,WR,5.3,2,UNLV,MWC,2016
+Mekhi Stevenson,recruit,WR,5.4,2,UNLV,MWC,2016
+Tim Holt,recruit,TE,5.6,3,UNLV,MWC,2016
+Johnny Stanton,recruit,QB,5.5,3,UNLV,MWC,2016
+Elijah Trosclair,recruit,WR,5.2,2,UNLV,MWC,2016
+Trevor Kanteman,recruit,TE,5.4,2,UNLV,MWC,2016
+John Okwoli,recruit,WR,5.5,3,Wyoming,MWC,2016
+Chandler Garrett,recruit,QB,5.3,2,Wyoming,MWC,2016
+Parker Dumas,recruit,WR,5.4,2,Wyoming,MWC,2016
+Sam Maughan,recruit,TE,5.3,2,Wyoming,MWC,2016
+Zach Taylor,recruit,RB,5.2,2,Wyoming,MWC,2016
+Mike Green,recruit,RB,5.2,2,Wyoming,MWC,2016
+Devin Gray,recruit,WR,5.4,2,Cincinnati,AAC,2016
+Jake Sopko,recruit,QB,5.4,2,Cincinnati,AAC,2016
+Tyrin Summers,recruit,WR,5.6,3,Cincinnati,AAC,2016
+Tyquan Statham,recruit,ATH,5.5,3,Cincinnati,AAC,2016
+Gerrid Doaks,recruit,RB,5.6,3,Cincinnati,AAC,2016
+Malick Mbodj,recruit,WR,5.5,3,Cincinnati,AAC,2016
+Marquis Smith,recruit,ATH,5.5,3,Cincinnati,AAC,2016
+Bruno LaBelle,recruit,TE,,,Cincinnati,AAC,2016
+Marcel Paul,recruit,WR,5.2,2,Cincinnati,AAC,2016
+Eddie Hahn,recruit,ATH,5.6,3,connecticut,AAC,2016
+Jay Rose,recruit,TE,5.3,2,connecticut,AAC,2016
+Quayvon Skanes,recruit,WR,5.5,3,connecticut,AAC,2016
+Donovan Williams,recruit,ATH,5.5,3,connecticut,AAC,2016
+Tyler Coyle,recruit,ATH,5.3,2,connecticut,AAC,2016
+Ja'kevious Vickers,recruit,RB,5.3,2,connecticut,AAC,2016
+Nate Hopkins,recruit,RB,5.4,2,connecticut,AAC,2016
+AJ Garson,recruit,TE,5.3,2,connecticut,AAC,2016
+Keyion Dixon,recruit,ATH,5.2,2,connecticut,AAC,2016
+Nick Zecchino,recruit,ATH,5.2,2,connecticut,AAC,2016
+Emmanuel Jones,recruit,WR,5.5,3,East Carolina,AAC,2016
+Reid Herring,recruit,QB,5.4,2,East Carolina,AAC,2016
+Kenyon Taylor,recruit,WR,5.4,2,East Carolina,AAC,2016
+Keyshawn Canady,recruit,ATH,5.4,2,East Carolina,AAC,2016
+Johnnie Glaspie,recruit,RB,5.5,3,East Carolina,AAC,2016
+Eric Weber,recruit,TE,5.2,2,East Carolina,AAC,2016
+Hussein Howe,recruit,RB,5.5,3,East Carolina,AAC,2016
+Tahj Deans,recruit,WR,5.4,2,East Carolina,AAC,2016
+Anthony Watley,recruit,TE,5.4,2,East Carolina,AAC,2016
+Gardner Minshew,recruit,QB,,,East Carolina,AAC,2016
+Bowman Sells,recruit,QB,5.7,3,Houston,AAC,2016
+Courtney Lark,recruit,WR,5.8,4,Houston,AAC,2016
+D'Eriq King,recruit,ATH,5.7,3,Houston,AAC,2016
+Marquez Stevenson,recruit,WR,5.6,3,Houston,AAC,2016
+Keith Corbin,recruit,WR,5.7,3,Houston,AAC,2016
+Mulbah Car,recruit,RB,5.5,3,Houston,AAC,2016
+Coye Fairman,recruit,WR,5.4,2,Memphis,AAC,2016
+Keon Howard,recruit,QB,5.4,2,Memphis,AAC,2016
+Thomas Pickens,recruit,ATH,5.5,3,Memphis,AAC,2016
+Sean Dykes,recruit,WR,5.3,2,Memphis,AAC,2016
+David Moore,recruit,QB,5.4,2,Memphis,AAC,2016
+Patrick Taylor Jr.,recruit,ATH,5.4,2,Memphis,AAC,2016
+John Williams,recruit,WR,5.5,3,Memphis,AAC,2016
+Jahod Booker,recruit,WR,5.4,2,Memphis,AAC,2016
+Riley Ferguson,recruit,QB,5.7,3,Memphis,AAC,2016
+Hunter Hill,recruit,WR,,,Memphis,AAC,2016
+Brandon Benson,recruit,WR,5.6,3,SMU,AAC,2016
+Collin Rock,recruit,QB,5.2,2,SMU,AAC,2016
+Joshua Shelmire,recruit,WR,5.4,2,SMU,AAC,2016
+Aphonso Thomas,recruit,RB,5.4,2,SMU,AAC,2016
+Blake Carlisle,recruit,WR,5.3,2,SMU,AAC,2016
+Corey Rau,recruit,TE,5.4,2,SMU,AAC,2016
+Myles Duke,recruit,ATH,5.4,2,SMU,AAC,2016
+Darnell Salomon,recruit,WR,5.8,4,South Florida,AAC,2016
+Chris Oladokun,recruit,QB,5.6,3,South Florida,AAC,2016
+Elijah Mack,recruit,RB,5.6,3,South Florida,AAC,2016
+Armunz Mathews,recruit,ATH,5.5,3,South Florida,AAC,2016
+Andre Polk,recruit,ATH,5.4,2,South Florida,AAC,2016
+DeVontres Dukes,recruit,WR,5.3,2,South Florida,AAC,2016
+Adrian Palmore,recruit,TE,,,South Florida,AAC,2016
+Tyliek Raynor,recruit,RB,5.5,3,Temple,AAC,2016
+Isaiah Wright,recruit,WR,5.6,3,Temple,AAC,2016
+Anthony Russo,recruit,QB,5.5,3,Temple,AAC,2016
+Amir Tyler,recruit,ATH,5.5,3,Temple,AAC,2016
+Kenny Yeboah,recruit,WR,5.4,2,Temple,AAC,2016
+Branden Mack,recruit,ATH,5.4,2,Temple,AAC,2016
+Steve Petrick,recruit,TE,5.3,2,Temple,AAC,2016
+Freddie Johnson,recruit,WR,5.4,2,Temple,AAC,2016
+Linwood Crump,recruit,ATH,5.3,2,Temple,AAC,2016
+Taiyir Wilson,recruit,RB,5.6,3,Temple,AAC,2016
+Samuel Lamar-Franklin,recruit,ATH,5.2,2,Temple,AAC,2016
+Randle Jones,recruit,ATH,5.4,2,Temple,AAC,2016
+Jacob Robertson,recruit,WR,5.6,3,Tulane,AAC,2016
+D.J. Owens,recruit,RB,5.4,2,Tulane,AAC,2016
+Darius Bradwell,recruit,ATH,5.3,2,Tulane,AAC,2016
+Miles Strickland,recruit,RB,5.4,2,Tulane,AAC,2016
+Johnathan Brantley,recruit,QB,5.2,2,Tulane,AAC,2016
+Chris Johnson,recruit,WR,5.4,2,Tulane,AAC,2016
+Larry Bryant,recruit,ATH,,,Tulane,AAC,2016
+A.J. Walker,recruit,RB,5.3,2,Tulane,AAC,2016
+Darnell Mooney,recruit,WR,5.3,2,Tulane,AAC,2016
+Manuel Bunch,recruit,ATH,5.3,2,Tulsa,AAC,2016
+Jordan Brown,recruit,WR,5.4,2,Tulsa,AAC,2016
+Keenen Johnson,recruit,ATH,5.4,2,Tulsa,AAC,2016
+Josh Stewart,recruit,WR,5.5,3,Tulsa,AAC,2016
+David Fitzwater,recruit,TE,5.2,2,Tulsa,AAC,2016
+Luke Skipper,recruit,QB,5.4,2,Tulsa,AAC,2016
+Anthony Roberson,recruit,TE,,,Central Florida,AAC,2016
+Dredrick Snelson,recruit,WR,5.8,4,Central Florida,AAC,2016
+Jaquarius Bargnare,recruit,WR,5.5,3,Central Florida,AAC,2016
+McKenzie Milton,recruit,QB,5.5,3,Central Florida,AAC,2016
+Jawon Hamilton,recruit,RB,5.6,3,Central Florida,AAC,2016
+Adrian Killins,recruit,RB,5.6,3,Central Florida,AAC,2016
+Dontay Mayfield,recruit,WR,5.5,3,Central Florida,AAC,2016

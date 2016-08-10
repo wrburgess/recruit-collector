@@ -1,6 +1,20 @@
 rivals_school_name,rivals_school_id,school_id,conf_id
+boisestate,112,Boise,MWC
+coloradostate,89,Colorado State,MWC
+fresnostate,90,Fresno,MWC
 nevada,39,Nevada,MWC
 newmexico,92,New Mexico,MWC
 sandiegostate,93,San Diego,MWC
 unlv,40,UNLV,MWC
 wyoming,96,Wyoming,MWC
+cincinnati,98,Cincinnati,AAC
+connecticut,202,connecticut,AAC
+eastcarolina,99,East Carolina,AAC
+houston,80,Houston,AAC
+memphis,101,Memphis,AAC
+smu,82,SMU,AAC
+usf,655,South Florida,AAC
+temple,15,Temple,AAC
+tulane,106,Tulane,AAC
+tulsa,107,Tulsa,AAC
+ucf,210,Central Florida,AAC
