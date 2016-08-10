@@ -6,7 +6,7 @@ namespace :scraper do
   desc "scrape for players"
   task :get_player_data do
 
-    year = 2015
+    year = 2016
     header = "name,class,pos,ht,wt,rate,star,school,conf,year\n"
     file = "#{Rails.root}/db/players.csv"
     File.open(file, "w") do |csv|
@@ -32,7 +32,7 @@ namespace :scraper do
   desc "scrape for school codes"
   task :get_school_codes do
 
-    year = 2015
+    year = 2016
     header = "school_name,school_id\n"
     file = "#{Rails.root}/db/school_codes.csv"
     File.open(file, "w") do |csv|
