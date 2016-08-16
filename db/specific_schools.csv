@@ -1,20 +1,38 @@
 rivals_school_name,rivals_school_id,school_id,conf_id
-boisestate,112,Boise,MWC
-coloradostate,89,Colorado State,MWC
-fresnostate,90,Fresno,MWC
-nevada,39,Nevada,MWC
-newmexico,92,New Mexico,MWC
-sandiegostate,93,San Diego,MWC
-unlv,40,UNLV,MWC
-wyoming,96,Wyoming,MWC
-cincinnati,98,Cincinnati,AAC
-connecticut,202,connecticut,AAC
-eastcarolina,99,East Carolina,AAC
-houston,80,Houston,AAC
-memphis,101,Memphis,AAC
-smu,82,SMU,AAC
-usf,655,South Florida,AAC
-temple,15,Temple,AAC
-tulane,106,Tulane,AAC
-tulsa,107,Tulsa,AAC
-ucf,210,Central Florida,AAC
+illinois,26,ILL,BIG10
+indiana,27,IND,BIG10
+iowa,28,IOWA,BIG10
+maryland,5,MYLD,BIG10
+michigan,29,MICH,BIG10
+michiganstate,30,MIST,BIG10
+minnesota,31,MINN,BIG10
+nebraska,23,NEB,BIG10
+northwestern,32,NWU,BIG10
+ohiostate,33,OSU,BIG10
+bwi,34,PSU,BIG10
+purdue,35,PUR,BIG10
+rutgers,13,RUT,BIG10
+wisconsin,36,WIS,BIG10
+baylor,79,BAY,BIG12
+iowastate,19,IWST,BIG12
+kansas,20,KAN,BIG12
+kansasstate,21,KNST,BIG12
+oklahoma,24,OKLA,BIG12
+oklahomastate,25,OKST,BIG12
+tcu,85,TCU,BIG12
+texas,83,TEX,BIG12
+texastech,86,TXTC,BIG12
+westvirginia,17,West Virginia,BIG12
+arizona,57,ARZ,PAC12
+arizonastate,58,AZST,PAC12
+cal,59,CAL,PAC12
+colorado,18,COL,PAC12
+oregon,60,oregon,PAC12
+oregonstate,61,oregon state,PAC12
+stanford,63,stanford,PAC12
+ucla,64,UCLA,PAC12
+usc,62,USC,PAC12
+utah,94,utah,PAC12
+washington,65,washington,PAC12
+washingtonstate,66,washington,PAC12
+notredame,14,Notre Dame,IND
