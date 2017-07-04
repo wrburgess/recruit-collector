@@ -1,156 +1,894 @@
 name,class,pos,rate,star,school,conf,year
-Nick Crabtree,recruit,TE,5.4,2,Boise,MWC,2016
-Jake Constantine,recruit,QB,5.4,2,Boise,MWC,2016
-Bubba Ogbebor,recruit,WR,5.5,3,Boise,MWC,2016
-Julian Carter,recruit,WR,5.6,3,Boise,MWC,2016
-Robert Mahone,recruit,RB,5.2,2,Boise,MWC,2016
-Alexander Mattison,recruit,RB,5.7,3,Boise,MWC,2016
-Jordan Happle,recruit,WR,5.4,2,Boise,MWC,2016
-John Bates,recruit,TE,5.5,3,Boise,MWC,2016
-Cedrick Wilson,recruit,ATH,5.2,2,Boise,MWC,2016
-Rashaad Boddie,recruit,RB,5.5,3,Colorado State,MWC,2016
-Collin Hill,recruit,QB,5.6,3,Colorado State,MWC,2016
-Anthony Hawkins,recruit,WR,5.4,2,Colorado State,MWC,2016
-Michael Gallup,recruit,WR,5.5,3,Colorado State,MWC,2016
-Darius May,recruit,RB,5.4,2,Colorado State,MWC,2016
-Dalton Fackrell,recruit,TE,5.6,3,Colorado State,MWC,2016
-Darneail Jenkins,recruit,TE,5.6,3,Colorado State,MWC,2016
-Detrich Clark,recruit,ATH,5.4,2,Colorado State,MWC,2016
-Robert Awunganyi,recruit,WR,5.3,2,Colorado State,MWC,2016
-Donte Coleman,recruit,TE,5.6,3,Fresno,MWC,2016
-Quentin Davis,recruit,QB,5.4,2,Fresno,MWC,2016
-Deonte Perry,recruit,RB,5.4,2,Fresno,MWC,2016
-Johnny Rojas,recruit,TE,5.3,2,Fresno,MWC,2016
-Trevion Armstrong,recruit,WR,5.5,3,Nevada,MWC,2016
-Dakota Miller,recruit,QB,5.2,2,Nevada,MWC,2016
-David Harvey,recruit,WR,5.3,2,Nevada,MWC,2016
-Darius Powe,recruit,WR,5.3,2,Nevada,MWC,2016
-Miles Beach,recruit,TE,5.3,2,Nevada,MWC,2016
-Jaxson Kincaide,recruit,RB,,,Nevada,MWC,2016
-Ty Gangi,recruit,QB,5.3,2,Nevada,MWC,2016
-Kameron Miller,recruit,QB,,,New Mexico,MWC,2016
-Tevaka Tuioti,recruit,QB,5.3,2,New Mexico,MWC,2016
-Daevon Vigilant,recruit,ATH,5.4,3,New Mexico,MWC,2016
-Rhashaun Epting,recruit,ATH,5.4,2,New Mexico,MWC,2016
-Emmanuel Harris,recruit,WR,5.3,2,New Mexico,MWC,2016
-Gabe Ortega,recruit,QB,,,New Mexico,MWC,2016
-Jay Griffin,recruit,ATH,5.4,2,New Mexico,MWC,2016
-Marcus Williams,recruit,WR,,,New Mexico,MWC,2016
-Isiah Macklin,recruit,WR,5.2,2,San Diego,MWC,2016
-Will Stricklin,recruit,ATH,5.3,2,San Diego,MWC,2016
-Tayler Hawkins,recruit,ATH,5.6,3,San Diego,MWC,2016
-Chase Jasmin,recruit,RB,5.5,3,San Diego,MWC,2016
-Parker Houston,recruit,TE,5.6,3,San Diego,MWC,2016
-Parie Dedeaux,recruit,ATH,5.5,3,San Diego,MWC,2016
-Tim Wilson,recruit,WR,5.4,2,San Diego,MWC,2016
-Kyle Spalding,recruit,TE,5.3,2,San Diego,MWC,2016
-Turner Bernard,recruit,ATH,5.2,2,San Diego,MWC,2016
-Andre Collins,recruit,WR,5.4,2,UNLV,MWC,2016
-Armani Rogers,recruit,QB,5.7,3,UNLV,MWC,2016
-Giovanni Fauolo,recruit,TE,5.5,3,UNLV,MWC,2016
-Charles Williams,recruit,RB,5.5,3,UNLV,MWC,2016
-C.J. Harris,recruit,WR,5.3,2,UNLV,MWC,2016
-Mekhi Stevenson,recruit,WR,5.4,2,UNLV,MWC,2016
-Tim Holt,recruit,TE,5.6,3,UNLV,MWC,2016
-Johnny Stanton,recruit,QB,5.5,3,UNLV,MWC,2016
-Elijah Trosclair,recruit,WR,5.2,2,UNLV,MWC,2016
-Trevor Kanteman,recruit,TE,5.4,2,UNLV,MWC,2016
-John Okwoli,recruit,WR,5.5,3,Wyoming,MWC,2016
-Chandler Garrett,recruit,QB,5.3,2,Wyoming,MWC,2016
-Parker Dumas,recruit,WR,5.4,2,Wyoming,MWC,2016
-Sam Maughan,recruit,TE,5.3,2,Wyoming,MWC,2016
-Zach Taylor,recruit,RB,5.2,2,Wyoming,MWC,2016
-Mike Green,recruit,RB,5.2,2,Wyoming,MWC,2016
-Devin Gray,recruit,WR,5.4,2,Cincinnati,AAC,2016
-Jake Sopko,recruit,QB,5.4,2,Cincinnati,AAC,2016
-Tyrin Summers,recruit,WR,5.6,3,Cincinnati,AAC,2016
-Tyquan Statham,recruit,ATH,5.5,3,Cincinnati,AAC,2016
-Gerrid Doaks,recruit,RB,5.6,3,Cincinnati,AAC,2016
-Malick Mbodj,recruit,WR,5.5,3,Cincinnati,AAC,2016
-Marquis Smith,recruit,ATH,5.5,3,Cincinnati,AAC,2016
-Bruno LaBelle,recruit,TE,,,Cincinnati,AAC,2016
-Marcel Paul,recruit,WR,5.2,2,Cincinnati,AAC,2016
-Eddie Hahn,recruit,ATH,5.6,3,connecticut,AAC,2016
-Jay Rose,recruit,TE,5.3,2,connecticut,AAC,2016
-Quayvon Skanes,recruit,WR,5.5,3,connecticut,AAC,2016
-Donovan Williams,recruit,ATH,5.5,3,connecticut,AAC,2016
-Tyler Coyle,recruit,ATH,5.3,2,connecticut,AAC,2016
-Ja'kevious Vickers,recruit,RB,5.3,2,connecticut,AAC,2016
-Nate Hopkins,recruit,RB,5.4,2,connecticut,AAC,2016
-AJ Garson,recruit,TE,5.3,2,connecticut,AAC,2016
-Keyion Dixon,recruit,ATH,5.2,2,connecticut,AAC,2016
-Nick Zecchino,recruit,ATH,5.2,2,connecticut,AAC,2016
-Emmanuel Jones,recruit,WR,5.5,3,East Carolina,AAC,2016
-Reid Herring,recruit,QB,5.4,2,East Carolina,AAC,2016
-Kenyon Taylor,recruit,WR,5.4,2,East Carolina,AAC,2016
-Keyshawn Canady,recruit,ATH,5.4,2,East Carolina,AAC,2016
-Johnnie Glaspie,recruit,RB,5.5,3,East Carolina,AAC,2016
-Eric Weber,recruit,TE,5.2,2,East Carolina,AAC,2016
-Hussein Howe,recruit,RB,5.5,3,East Carolina,AAC,2016
-Tahj Deans,recruit,WR,5.4,2,East Carolina,AAC,2016
-Anthony Watley,recruit,TE,5.4,2,East Carolina,AAC,2016
-Gardner Minshew,recruit,QB,,,East Carolina,AAC,2016
-Bowman Sells,recruit,QB,5.7,3,Houston,AAC,2016
-Courtney Lark,recruit,WR,5.8,4,Houston,AAC,2016
-D'Eriq King,recruit,ATH,5.7,3,Houston,AAC,2016
-Marquez Stevenson,recruit,WR,5.6,3,Houston,AAC,2016
-Keith Corbin,recruit,WR,5.7,3,Houston,AAC,2016
-Mulbah Car,recruit,RB,5.5,3,Houston,AAC,2016
-Coye Fairman,recruit,WR,5.4,2,Memphis,AAC,2016
-Keon Howard,recruit,QB,5.4,2,Memphis,AAC,2016
-Thomas Pickens,recruit,ATH,5.5,3,Memphis,AAC,2016
-Sean Dykes,recruit,WR,5.3,2,Memphis,AAC,2016
-David Moore,recruit,QB,5.4,2,Memphis,AAC,2016
-Patrick Taylor Jr.,recruit,ATH,5.4,2,Memphis,AAC,2016
-John Williams,recruit,WR,5.5,3,Memphis,AAC,2016
-Jahod Booker,recruit,WR,5.4,2,Memphis,AAC,2016
-Riley Ferguson,recruit,QB,5.7,3,Memphis,AAC,2016
-Hunter Hill,recruit,WR,,,Memphis,AAC,2016
-Brandon Benson,recruit,WR,5.6,3,SMU,AAC,2016
-Collin Rock,recruit,QB,5.2,2,SMU,AAC,2016
-Joshua Shelmire,recruit,WR,5.4,2,SMU,AAC,2016
-Aphonso Thomas,recruit,RB,5.4,2,SMU,AAC,2016
-Blake Carlisle,recruit,WR,5.3,2,SMU,AAC,2016
-Corey Rau,recruit,TE,5.4,2,SMU,AAC,2016
-Myles Duke,recruit,ATH,5.4,2,SMU,AAC,2016
-Darnell Salomon,recruit,WR,5.8,4,South Florida,AAC,2016
-Chris Oladokun,recruit,QB,5.6,3,South Florida,AAC,2016
-Elijah Mack,recruit,RB,5.6,3,South Florida,AAC,2016
-Armunz Mathews,recruit,ATH,5.5,3,South Florida,AAC,2016
-Andre Polk,recruit,ATH,5.4,2,South Florida,AAC,2016
-DeVontres Dukes,recruit,WR,5.3,2,South Florida,AAC,2016
-Adrian Palmore,recruit,TE,,,South Florida,AAC,2016
-Tyliek Raynor,recruit,RB,5.5,3,Temple,AAC,2016
-Isaiah Wright,recruit,WR,5.6,3,Temple,AAC,2016
-Anthony Russo,recruit,QB,5.5,3,Temple,AAC,2016
-Amir Tyler,recruit,ATH,5.5,3,Temple,AAC,2016
-Kenny Yeboah,recruit,WR,5.4,2,Temple,AAC,2016
-Branden Mack,recruit,ATH,5.4,2,Temple,AAC,2016
-Steve Petrick,recruit,TE,5.3,2,Temple,AAC,2016
-Freddie Johnson,recruit,WR,5.4,2,Temple,AAC,2016
-Linwood Crump,recruit,ATH,5.3,2,Temple,AAC,2016
-Taiyir Wilson,recruit,RB,5.6,3,Temple,AAC,2016
-Samuel Lamar-Franklin,recruit,ATH,5.2,2,Temple,AAC,2016
-Randle Jones,recruit,ATH,5.4,2,Temple,AAC,2016
-Jacob Robertson,recruit,WR,5.6,3,Tulane,AAC,2016
-D.J. Owens,recruit,RB,5.4,2,Tulane,AAC,2016
-Darius Bradwell,recruit,ATH,5.3,2,Tulane,AAC,2016
-Miles Strickland,recruit,RB,5.4,2,Tulane,AAC,2016
-Johnathan Brantley,recruit,QB,5.2,2,Tulane,AAC,2016
-Chris Johnson,recruit,WR,5.4,2,Tulane,AAC,2016
-Larry Bryant,recruit,ATH,,,Tulane,AAC,2016
-A.J. Walker,recruit,RB,5.3,2,Tulane,AAC,2016
-Darnell Mooney,recruit,WR,5.3,2,Tulane,AAC,2016
-Manuel Bunch,recruit,ATH,5.3,2,Tulsa,AAC,2016
-Jordan Brown,recruit,WR,5.4,2,Tulsa,AAC,2016
-Keenen Johnson,recruit,ATH,5.4,2,Tulsa,AAC,2016
-Josh Stewart,recruit,WR,5.5,3,Tulsa,AAC,2016
-David Fitzwater,recruit,TE,5.2,2,Tulsa,AAC,2016
-Luke Skipper,recruit,QB,5.4,2,Tulsa,AAC,2016
-Anthony Roberson,recruit,TE,,,Central Florida,AAC,2016
-Dredrick Snelson,recruit,WR,5.8,4,Central Florida,AAC,2016
-Jaquarius Bargnare,recruit,WR,5.5,3,Central Florida,AAC,2016
-McKenzie Milton,recruit,QB,5.5,3,Central Florida,AAC,2016
-Jawon Hamilton,recruit,RB,5.6,3,Central Florida,AAC,2016
-Adrian Killins,recruit,RB,5.6,3,Central Florida,AAC,2016
-Dontay Mayfield,recruit,WR,5.5,3,Central Florida,AAC,2016
+Jake Fromm,recruit,QB,6.1,5,georgia,SEC,2017
+Najee Harris,recruit,RB,6.1,5,alabama,SEC,2017
+Jerry Jeudy,recruit,WR,6.1,5,alabama,SEC,2017
+Tee Higgins,recruit,WR,6.1,5,CLEM,ACC,2017
+Hunter Johnson,recruit,QB,6.1,5,CLEM,ACC,2017
+Cam Akers,recruit,RB,6.1,5,FSU,ACC,2017
+Khalan Laborn,recruit,RB,6.1,5,FSU,ACC,2017
+Donovan Peoples-Jones,recruit,WR,6.1,5,MICH,BIG10,2017
+Trevon Grimes,recruit,WR,6.1,5,OSU,BIG10,2017
+Davis Mills,recruit,QB,6.1,5,stanford,PAC12,2017
+D'Andre Swift,recruit,RB,6,4,georgia,SEC,2017
+Tua Tagovailoa,recruit,QB,6,4,alabama,SEC,2017
+DeVonta Smith,recruit,WR,6,4,alabama,SEC,2017
+D.J. Matthews,recruit,WR,6,4,FSU,ACC,2017
+Jeff Thomas,recruit,WR,6,4,MIA,ACC,2017
+Tyjon Lindsey,recruit,WR,6,4,NEB,BIG10,2017
+J.K. Dobbins,recruit,RB,6,4,OSU,BIG10,2017
+Tate Martell,recruit,QB,6,4,OSU,BIG10,2017
+Cedarian Lamb,recruit,WR,6,4,OKLA,BIG12,2017
+Brock Wright,recruit,TE,6,4,Notre Dame,IND,2017
+Deommodore Lenoir,recruit,ATH,6,4,oregon,PAC12,2017
+Colby Parkinson,recruit,TE,6,4,stanford,PAC12,2017
+Stephen Carr,recruit,RB,6,4,USC,PAC12,2017
+Joseph Lewis,recruit,WR,6,4,USC,PAC12,2017
+James Robinson,recruit,WR,5.9,4,florida,SEC,2017
+Mark Webb,recruit,WR,5.9,4,georgia,SEC,2017
+Deangelo Gibbs,recruit,ATH,5.9,4,georgia,SEC,2017
+JaVonte Richardson,recruit,ATH,5.9,4,kentucky,SEC,2017
+Jamyest Williams,recruit,ATH,5.9,4,carolina,SEC,2017
+OrTre Smith,recruit,WR,5.9,4,carolina,SEC,2017
+Ty Chandler,recruit,RB,5.9,4,tennessee,SEC,2017
+Jordan Murphy,recruit,WR,5.9,4,tennessee,SEC,2017
+Brian Robinson,recruit,RB,5.9,4,alabama,SEC,2017
+Mac Jones,recruit,QB,5.9,4,alabama,SEC,2017
+Henry Ruggs,recruit,WR,5.9,4,alabama,SEC,2017
+Tyrell Shavers,recruit,WR,5.9,4,alabama,SEC,2017
+Jeremy Patton,recruit,TE,5.9,4,arkansas,SEC,2017
+Brandon Martin,recruit,WR,5.9,4,arkansas,SEC,2017
+Chase Hayden,recruit,RB,5.9,4,arkansas,SEC,2017
+Malcolm Askew,recruit,ATH,5.9,4,auburn,SEC,2017
+Devan Barrett,recruit,RB,5.9,4,auburn,SEC,2017
+Keytaon Thompson,recruit,QB,5.9,4,mississippi,SEC,2017
+Colin Wilson,recruit,RB,5.9,4,LOU,ACC,2017
+Mike Harley,recruit,WR,5.9,4,MIA,ACC,2017
+Sean Clifford,recruit,QB,5.9,4,PSU,BIG10,2017
+Kasim Hill,recruit,QB,5.9,4,MYLD,BIG10,2017
+Anthony McFarland,recruit,RB,5.9,4,MYLD,BIG10,2017
+Dylan McCaffrey,recruit,QB,5.9,4,MICH,BIG10,2017
+Nico Collins,recruit,WR,5.9,4,MICH,BIG10,2017
+Tarik Black,recruit,WR,5.9,4,MICH,BIG10,2017
+Matt Dotson,recruit,TE,5.9,4,MIST,BIG10,2017
+Tristan Gebbia,recruit,QB,5.9,4,NEB,BIG10,2017
+Brendon White,recruit,ATH,5.9,4,OSU,BIG10,2017
+Danny Davis,recruit,WR,5.9,4,WIS,BIG10,2017
+Charleston Rambo,recruit,WR,5.9,4,OKLA,BIG12,2017
+Trey Sermon,recruit,RB,5.9,4,OKLA,BIG12,2017
+Chris Robison,recruit,QB,5.9,4,OKLA,BIG12,2017
+Omar Manning,recruit,WR,5.9,4,TCU,BIG12,2017
+Sam Ehlinger,recruit,QB,5.9,4,TEX,BIG12,2017
+Cole Kmet,recruit,TE,5.9,4,Notre Dame,IND,2017
+Nathan Tilford,recruit,ATH,5.9,4,ARZ,PAC12,2017
+Tyler Johnson,recruit,ATH,5.9,4,AZST,PAC12,2017
+Eno Benjamin,recruit,RB,5.9,4,AZST,PAC12,2017
+Jaylon Redd,recruit,ATH,5.9,4,oregon,PAC12,2017
+Isaiah Hodgins,recruit,WR,5.9,4,oregon state,PAC12,2017
+Osiris St. Brown,recruit,WR,5.9,4,stanford,PAC12,2017
+Connor Wedington,recruit,ATH,5.9,4,stanford,PAC12,2017
+Sione Lund,recruit,ATH,5.9,4,stanford,PAC12,2017
+Jack Sears,recruit,QB,5.9,4,USC,PAC12,2017
+Isaiah Pola-Mao,recruit,ATH,5.9,4,USC,PAC12,2017
+Greg Johnson,recruit,ATH,5.9,4,USC,PAC12,2017
+Bryan Thompson,recruit,WR,5.9,4,utah,PAC12,2017
+Hunter Bryant,recruit,TE,5.9,4,washington,PAC12,2017
+Salvon Ahmed,recruit,ATH,5.9,4,washington,PAC12,2017
+Terrell Bynum,recruit,WR,5.9,4,washington,PAC12,2017
+Jarell White,recruit,ATH,5.8,4,Cincinnati,AAC,2017
+Nick Robinson,recruit,TE,5.8,4,Memphis,AAC,2017
+Cordarrian Richardson,recruit,RB,5.8,4,Central Florida,AAC,2017
+Kemore Gamble,recruit,TE,5.8,4,florida,SEC,2017
+Daquon Green,recruit,WR,5.8,4,florida,SEC,2017
+Adarius Lemons,recruit,RB,5.8,4,florida,SEC,2017
+Malik Davis,recruit,RB,5.8,4,florida,SEC,2017
+Trey Blount,recruit,ATH,5.8,4,georgia,SEC,2017
+Jeremiah Holloman,recruit,ATH,5.8,4,georgia,SEC,2017
+Lynn Bowden,recruit,ATH,5.8,4,kentucky,SEC,2017
+Tyrell Ajian,recruit,ATH,5.8,4,kentucky,SEC,2017
+Will Register,recruit,TE,5.8,4,carolina,SEC,2017
+Chad Terrell,recruit,WR,5.8,4,carolina,SEC,2017
+Shi Smith,recruit,WR,5.8,4,carolina,SEC,2017
+Kedrick James,recruit,TE,5.8,4,alabama,SEC,2017
+Chadarius Townsend,recruit,ATH,5.8,4,alabama,SEC,2017
+Major Tennison,recruit,TE,5.8,4,alabama,SEC,2017
+Noah Igbinoghene,recruit,WR,5.8,4,auburn,SEC,2017
+Alaric Williams,recruit,ATH,5.8,4,auburn,SEC,2017
+Myles Brennan,recruit,QB,5.8,4,LSU,SEC,2017
+Mannie Netherly,recruit,WR,5.8,4,LSU,SEC,2017
+Kam White,recruit,ATH,5.8,4,ole miss,SEC,2017
+AJ Dillon,recruit,RB,5.8,4,BC,ACC,2017
+Chase Brice,recruit,QB,5.8,4,CLEM,ACC,2017
+Amari Rodgers,recruit,WR,5.8,4,CLEM,ACC,2017
+Zaquandre White,recruit,RB,5.8,4,FSU,ACC,2017
+Alex Marshall,recruit,TE,5.8,4,FSU,ACC,2017
+James Blackman,recruit,QB,5.8,4,FSU,ACC,2017
+Malik Cunningham,recruit,QB,5.8,4,LOU,ACC,2017
+Corey Reed,recruit,WR,5.8,4,LOU,ACC,2017
+Justin Marshall,recruit,WR,5.8,4,LOU,ACC,2017
+Russ Yeast,recruit,ATH,5.8,4,LOU,ACC,2017
+Deejay Dallas,recruit,ATH,5.8,4,MIA,ACC,2017
+N'Kosi Perry,recruit,QB,5.8,4,MIA,ACC,2017
+Antoine Thompson,recruit,WR,5.8,4,NCST,ACC,2017
+CJ Cotman,recruit,ATH,5.8,4,UNC,ACC,2017
+Charles Reeves,recruit,TE,5.8,4,PITT,ACC,2017
+Anthony Davis,recruit,RB,5.8,4,PITT,ACC,2017
+Caleb Farley,recruit,ATH,5.8,4,VT,ACC,2017
+K.J. Hamler,recruit,WR,5.8,4,PSU,BIG10,2017
+Ricky Smalling,recruit,WR,5.8,4,ILL,BIG10,2017
+Carmoni Green,recruit,WR,5.8,4,ILL,BIG10,2017
+Tahj Capehart,recruit,ATH,5.8,4,MYLD,BIG10,2017
+Oliver Martin,recruit,WR,5.8,4,MICH,BIG10,2017
+Brad Hawkins,recruit,WR,5.8,4,MICH,BIG10,2017
+O'maury Samuels,recruit,RB,5.8,4,MICH,BIG10,2017
+Hunter Rison,recruit,WR,5.8,4,MIST,BIG10,2017
+Keyshawn Johnson Jr.,recruit,WR,5.8,4,NEB,BIG10,2017
+Jaevon McQuitty,recruit,WR,5.8,4,NEB,BIG10,2017
+Jaylen Harris,recruit,WR,5.8,4,OSU,BIG10,2017
+Bo Melton,recruit,WR,5.8,4,RUT,BIG10,2017
+Jonathan Taylor,recruit,RB,5.8,4,WIS,BIG10,2017
+Jack Coan,recruit,QB,5.8,4,WIS,BIG10,2017
+Dominic Williams,recruit,RB,5.8,4,KAN,BIG12,2017
+Ryan Jones,recruit,WR,5.8,4,OKLA,BIG12,2017
+Kennedy Brooks,recruit,RB,5.8,4,OKLA,BIG12,2017
+Marquise Brown,recruit,WR,5.8,4,OKLA,BIG12,2017
+Grant Calcaterra,recruit,ATH,5.8,4,OKLA,BIG12,2017
+LC Greenwood,recruit,WR,5.8,4,OKST,BIG12,2017
+Chuba Hubbard,recruit,ATH,5.8,4,OKST,BIG12,2017
+Tylan Wallace,recruit,WR,5.8,4,OKST,BIG12,2017
+Jalen Reagor,recruit,WR,5.8,4,TCU,BIG12,2017
+Damion Miller,recruit,WR,5.8,4,TEX,BIG12,2017
+Montrell Estell,recruit,ATH,5.8,4,TEX,BIG12,2017
+Reese Leitao,recruit,TE,5.8,4,TEX,BIG12,2017
+Toneil Carter,recruit,RB,5.8,4,TEX,BIG12,2017
+Isaiah Robertson,recruit,ATH,5.8,4,Notre Dame,IND,2017
+C.J. Holmes,recruit,RB,5.8,4,Notre Dame,IND,2017
+Drew Dixon,recruit,ATH,5.8,4,ARZ,PAC12,2017
+Ryan Kelley,recruit,QB,5.8,4,AZST,PAC12,2017
+Chase Garbers,recruit,QB,5.8,4,CAL,PAC12,2017
+Elijah Hicks,recruit,ATH,5.8,4,CAL,PAC12,2017
+K.D. Nixon,recruit,WR,5.8,4,COL,PAC12,2017
+Braxton Burmeister,recruit,QB,5.8,4,oregon,PAC12,2017
+Bruce Judson,recruit,ATH,5.8,4,oregon,PAC12,2017
+Saiid Adebo,recruit,ATH,5.8,4,stanford,PAC12,2017
+Jimmy Jaggers,recruit,TE,5.8,4,UCLA,PAC12,2017
+Josh Falo,recruit,TE,5.8,4,USC,PAC12,2017
+Juliano Falaniko,recruit,ATH,5.8,4,USC,PAC12,2017
+Randal Grimes,recruit,WR,5.8,4,USC,PAC12,2017
+T.J. Green,recruit,RB,5.8,4,utah,PAC12,2017
+Anthony White Jr.,recruit,WR,5.8,4,washington,PAC12,2017
+Jamire Calvin,recruit,WR,5.8,4,washington,PAC12,2017
+D.J. Gillins,recruit,QB,5.7,3,SMU,AAC,2017
+Emmanuel Greene,recruit,WR,5.7,3,Central Florida,AAC,2017
+Kevaughn Dingle,recruit,WR,5.7,3,South Florida,AAC,2017
+Jake Allen,recruit,QB,5.7,3,florida,SEC,2017
+Tray Bishop,recruit,ATH,5.7,3,georgia,SEC,2017
+Clevan Thomas,recruit,WR,5.7,3,kentucky,SEC,2017
+Danny Clark,recruit,QB,5.7,3,kentucky,SEC,2017
+Jay Urich,recruit,QB,5.7,3,carolina,SEC,2017
+Josh Palmer,recruit,WR,5.7,3,tennessee,SEC,2017
+Jacob Free,recruit,QB,5.7,3,vanderbilt,SEC,2017
+Maleek Barkley,recruit,ATH,5.7,3,arkansas,SEC,2017
+Sal Cannella,recruit,TE,5.7,3,auburn,SEC,2017
+Malik Willis,recruit,ATH,5.7,3,auburn,SEC,2017
+Lowell Narcisse,recruit,QB,5.7,3,LSU,SEC,2017
+Clyde Edwards-Helaire,recruit,RB,5.7,3,LSU,SEC,2017
+Travis Etienne,recruit,RB,5.7,3,CLEM,ACC,2017
+Jake Marwede,recruit,TE,5.7,3,DUKE,ACC,2017
+Bailey Hockman,recruit,QB,5.7,3,FSU,ACC,2017
+Tre McKitty,recruit,TE,5.7,3,FSU,ACC,2017
+Kemari Averett,recruit,TE,5.7,3,LOU,ACC,2017
+Brian Polendey,recruit,TE,5.7,3,MIA,ACC,2017
+Cade Weldon,recruit,QB,5.7,3,MIA,ACC,2017
+Emeka Emezie,recruit,WR,5.7,3,NCST,ACC,2017
+Michael Carter,recruit,RB,5.7,3,UNC,ACC,2017
+Dazz Newsome,recruit,ATH,5.7,3,UNC,ACC,2017
+J.T. Cauthen,recruit,WR,5.7,3,UNC,ACC,2017
+Todd Sibley,recruit,RB,5.7,3,PITT,ACC,2017
+Allen Stritzinger,recruit,ATH,5.7,3,SYR,ACC,2017
+Tommy Devito,recruit,QB,5.7,3,SYR,ACC,2017
+Germane Crowell,recruit,ATH,5.7,3,VA,ACC,2017
+Hendon Hooker,recruit,QB,5.7,3,VT,ACC,2017
+Cameron Sullivan-Brown,recruit,WR,5.7,3,PSU,BIG10,2017
+Mac Hippenhammer,recruit,WR,5.7,3,PSU,BIG10,2017
+Peyton Mansell,recruit,QB,5.7,3,IOWA,BIG10,2017
+Kyshaun Bryan,recruit,RB,5.7,3,IOWA,BIG10,2017
+Tayon Fleet-Davis,recruit,RB,5.7,3,MYLD,BIG10,2017
+Brandon Gaddy,recruit,ATH,5.7,3,MYLD,BIG10,2017
+Javon Leake,recruit,RB,5.7,3,MYLD,BIG10,2017
+Cody White,recruit,WR,5.7,3,MIST,BIG10,2017
+Mohamed Ibrahim,recruit,RB,5.7,3,MINN,BIG10,2017
+Trey Pugh,recruit,TE,5.7,3,NWU,BIG10,2017
+Eddie Lewis,recruit,WR,5.7,3,RUT,BIG10,2017
+Johnathan Lewis,recruit,QB,5.7,3,RUT,BIG10,2017
+Jake Ferguson,recruit,TE,5.7,3,WIS,BIG10,2017
+Cade Green,recruit,WR,5.7,3,WIS,BIG10,2017
+Jalen Pitre,recruit,ATH,5.7,3,BAY,BIG12,2017
+Gavin Holmes,recruit,WR,5.7,3,BAY,BIG12,2017
+Trestan Ebner,recruit,ATH,5.7,3,BAY,BIG12,2017
+John Lovett,recruit,ATH,5.7,3,BAY,BIG12,2017
+Chabastin Taylor,recruit,WR,5.7,3,KNST,BIG12,2017
+Jeremiah Hall,recruit,TE,5.7,3,OKLA,BIG12,2017
+Marcelias Sutton,recruit,ATH,5.7,3,OKLA,BIG12,2017
+Braydon Johnson,recruit,WR,5.7,3,OKST,BIG12,2017
+Lamarcus Morton,recruit,WR,5.7,3,OKST,BIG12,2017
+Jelani Woods,recruit,QB,5.7,3,OKST,BIG12,2017
+Shawn Robinson,recruit,QB,5.7,3,TCU,BIG12,2017
+Michael Onyemaobi,recruit,ATH,5.7,3,TCU,BIG12,2017
+David Sills,recruit,ATH,5.7,3,West Virginia,BIG12,2017
+DeAndre Johnson,recruit,QB,5.7,3,fau,CUSA,2017
+Jalen Guyton,recruit,WR,5.7,3,northtexas,CUSA,2017
+Avery Davis,recruit,QB,5.7,3,Notre Dame,IND,2017
+Michael Young,recruit,WR,5.7,3,Notre Dame,IND,2017
+Jafar Armstrong,recruit,WR,5.7,3,Notre Dame,IND,2017
+Octavius Evans,recruit,WR,5.7,3,Boise,MWC,2017
+Kaegun Williams,recruit,RB,5.7,3,San Diego,MWC,2017
+Trelon Smith,recruit,RB,5.7,3,AZST,PAC12,2017
+Biaggio Ali-Walsh,recruit,RB,5.7,3,CAL,PAC12,2017
+Taariq Johnson,recruit,WR,5.7,3,CAL,PAC12,2017
+Jared Poplawski,recruit,TE,5.7,3,COL,PAC12,2017
+Kolby Taylor,recruit,WR,5.7,3,oregon state,PAC12,2017
+Calvin Tyler,recruit,RB,5.7,3,oregon state,PAC12,2017
+Tucker Fisk,recruit,TE,5.7,3,stanford,PAC12,2017
+Moses Robinson-Carr,recruit,TE,5.7,3,UCLA,PAC12,2017
+Erik Krommenhoek,recruit,TE,5.7,3,USC,PAC12,2017
+Taniela Pututau,recruit,WR,5.7,3,utah,PAC12,2017
+Tyquez Hampton,recruit,WR,5.7,3,utah,PAC12,2017
+Alex Cook,recruit,WR,5.7,3,washington,PAC12,2017
+Cade Otton,recruit,TE,5.7,3,washington,PAC12,2017
+Jake Haener,recruit,QB,5.7,3,washington,PAC12,2017
+Ty Jones,recruit,WR,5.7,3,washington,PAC12,2017
+Kelle Sanders,recruit,ATH,5.7,3,washington,PAC12,2017
+Connor Neville,recruit,QB,5.7,3,washington,PAC12,2017
+Michael Warren,recruit,RB,5.6,3,Cincinnati,AAC,2017
+Jayden Borders,recruit,WR,5.6,3,East Carolina,AAC,2017
+Leroy Henley,recruit,WR,5.6,3,East Carolina,AAC,2017
+Alec Long,recruit,ATH,5.6,3,Memphis,AAC,2017
+Mychal Cooper,recruit,WR,5.6,3,Navy,AAC,2017
+Sam Crawford,recruit,WR,5.6,3,Tulsa,AAC,2017
+Marlon Williams,recruit,WR,5.6,3,Central Florida,AAC,2017
+Darriel Mack Jr.,recruit,QB,5.6,3,Central Florida,AAC,2017
+Otis Anderson,recruit,RB,5.6,3,Central Florida,AAC,2017
+Bentavious Thompson,recruit,RB,5.6,3,Central Florida,AAC,2017
+Bentlee Sanders,recruit,ATH,5.6,3,South Florida,AAC,2017
+Kadarius Toney,recruit,ATH,5.6,3,florida,SEC,2017
+Eric Stokes,recruit,ATH,5.6,3,georgia,SEC,2017
+Joshua Ali,recruit,WR,5.6,3,kentucky,SEC,2017
+Walker Wood,recruit,QB,5.6,3,kentucky,SEC,2017
+Bryant Koback,recruit,RB,5.6,3,kentucky,SEC,2017
+Isaiah Epps,recruit,WR,5.6,3,kentucky,SEC,2017
+James Brown,recruit,TE,5.6,3,tennessee,SEC,2017
+Trey Coleman,recruit,RB,5.6,3,tennessee,SEC,2017
+Jarrod Barnes,recruit,ATH,5.6,3,arkansas,SEC,2017
+Koilan Jackson,recruit,WR,5.6,3,arkansas,SEC,2017
+Jonathan Nance,recruit,WR,5.6,3,arkansas,SEC,2017
+Maleek Williams,recruit,RB,5.6,3,arkansas,SEC,2017
+Racey McMath,recruit,WR,5.6,3,LSU,SEC,2017
+Tory Carter,recruit,RB,5.6,3,LSU,SEC,2017
+Braylon Sanders,recruit,WR,5.6,3,ole miss,SEC,2017
+D.D. Bowie,recruit,WR,5.6,3,ole miss,SEC,2017
+JaVonta Payton,recruit,ATH,5.6,3,ole miss,SEC,2017
+Travis Levy,recruit,RB,5.6,3,BC,ACC,2017
+Caleb Stoneburner,recruit,WR,5.6,3,BC,ACC,2017
+Brandon Sebastian,recruit,ATH,5.6,3,BC,ACC,2017
+CJ Lewis,recruit,QB,5.6,3,BC,ACC,2017
+Deon Jackson,recruit,ATH,5.6,3,DUKE,ACC,2017
+Chris Katrenick,recruit,QB,5.6,3,DUKE,ACC,2017
+Tamorrion  Terry,recruit,WR,5.6,3,FSU,ACC,2017
+Deonte Sheffield,recruit,RB,5.6,3,FSU,ACC,2017
+Jerry Howard,recruit,RB,5.6,3,GTCH,ACC,2017
+Joshua Johnson,recruit,WR,5.6,3,LOU,ACC,2017
+Evidence Njoku,recruit,WR,5.6,3,MIA,ACC,2017
+Robert Burns,recruit,RB,5.6,3,MIA,ACC,2017
+Damien Darden,recruit,TE,5.6,3,NCST,ACC,2017
+Antwuan Branch,recruit,RB,5.6,3,UNC,ACC,2017
+Beau Corrales,recruit,WR,5.6,3,UNC,ACC,2017
+Kyle Nunn,recruit,ATH,5.6,3,PITT,ACC,2017
+Michael Smith,recruit,WR,5.6,3,PITT,ACC,2017
+Ravian Pierce,recruit,TE,5.6,3,SYR,ACC,2017
+Lindell Stone,recruit,QB,5.6,3,VA,ACC,2017
+Lamont Atkins,recruit,RB,5.6,3,VA,ACC,2017
+Shawn Smith,recruit,WR,5.6,3,VA,ACC,2017
+Dalton Keene,recruit,ATH,5.6,3,VT,ACC,2017
+Sean Savoy,recruit,WR,5.6,3,VT,ACC,2017
+Jalen Holston,recruit,RB,5.6,3,VT,ACC,2017
+Hezekiah Grimsley,recruit,WR,5.6,3,VT,ACC,2017
+Drake Deluliis,recruit,TE,5.6,3,VT,ACC,2017
+Christian Beal,recruit,RB,5.6,3,WFST,ACC,2017
+Waydale Jones,recruit,WR,5.6,3,WFST,ACC,2017
+Journey Brown,recruit,RB,5.6,3,PSU,BIG10,2017
+Kendall Smith,recruit,WR,5.6,3,ILL,BIG10,2017
+Mike Epstein,recruit,RB,5.6,3,ILL,BIG10,2017
+Dwayne Lawson,recruit,QB,5.6,3,ILL,BIG10,2017
+Juwan Burgess,recruit,ATH,5.6,3,IND,BIG10,2017
+Morgan Ellison,recruit,RB,5.6,3,IND,BIG10,2017
+Ivory Kelly-Martin,recruit,RB,5.6,3,IOWA,BIG10,2017
+Jayden Comma,recruit,WR,5.6,3,MYLD,BIG10,2017
+Sean Nelson,recruit,WR,5.6,3,MYLD,BIG10,2017
+Carlos Carriere,recruit,WR,5.6,3,MYLD,BIG10,2017
+Jalen Browder,recruit,ATH,5.6,3,MYLD,BIG10,2017
+Rocky Lombardi,recruit,QB,5.6,3,MIST,BIG10,2017
+Weston Bridges,recruit,RB,5.6,3,MIST,BIG10,2017
+Demetrius Douglas,recruit,ATH,5.6,3,MINN,BIG10,2017
+Jake Paulson,recruit,TE,5.6,3,MINN,BIG10,2017
+Christopher Bell,recruit,WR,5.6,3,MINN,BIG10,2017
+Kurt Rafdal,recruit,TE,5.6,3,NEB,BIG10,2017
+Austin Allen,recruit,TE,5.6,3,NEB,BIG10,2017
+Jace James,recruit,WR,5.6,3,NWU,BIG10,2017
+Elijah Gardiner,recruit,WR,5.6,3,OSU,BIG10,2017
+Nicholas Sipe,recruit,QB,5.6,3,PUR,BIG10,2017
+Shameen Jones,recruit,WR,5.6,3,RUT,BIG10,2017
+Scott Nelson,recruit,ATH,5.6,3,WIS,BIG10,2017
+Faion Hicks,recruit,ATH,5.6,3,WIS,BIG10,2017
+Emmet Perry,recruit,WR,5.6,3,WIS,BIG10,2017
+Charlie Brewer,recruit,QB,5.6,3,BAY,BIG12,2017
+RJ Sneed,recruit,WR,5.6,3,BAY,BIG12,2017
+Devon Moore,recruit,QB,5.6,3,IWST,BIG12,2017
+Joshua Johnson,recruit,WR,5.6,3,IWST,BIG12,2017
+Travis Jordan,recruit,ATH,5.6,3,KAN,BIG12,2017
+Kenyon Tabor,recruit,WR,5.6,3,KAN,BIG12,2017
+Octavius Matthews,recruit,RB,5.6,3,KAN,BIG12,2017
+JD King,recruit,RB,5.6,3,OKST,BIG12,2017
+Kenedy Snell,recruit,WR,5.6,3,TCU,BIG12,2017
+Al'Dontre Davis,recruit,WR,5.6,3,TCU,BIG12,2017
+Cade Brewer,recruit,TE,5.6,3,TEX,BIG12,2017
+Daniel Young,recruit,RB,5.6,3,TEX,BIG12,2017
+Xavier Martin,recruit,QB,5.6,3,TXTC,BIG12,2017
+Tevin Bush,recruit,RB,5.6,3,West Virginia,BIG12,2017
+Reggie Roberson,recruit,WR,5.6,3,West Virginia,BIG12,2017
+Kameron Duncan,recruit,RB,5.6,3,charlotte,CUSA,2017
+Jaiden Cole,recruit,ATH,5.6,3,latech,CUSA,2017
+Isaiah Green,recruit,QB,5.6,3,marshall,CUSA,2017
+Janiero Crankfield,recruit,WR,5.6,3,marshall,CUSA,2017
+Sheldon Evans,recruit,RB,5.6,3,marshall,CUSA,2017
+Zack Dobson,recruit,ATH,5.6,3,middletennessee,CUSA,2017
+Tre Siggers,recruit,WR,5.6,3,northtexas,CUSA,2017
+Mike'Quan Deane,recruit,TE,5.6,3,wku,CUSA,2017
+Jackson McChesney,recruit,RB,5.6,3,BYU,IND,2017
+Jordan Genmark Heath,recruit,ATH,5.6,3,Notre Dame,IND,2017
+Drayton Law,recruit,WR,5.6,3,centralmichigan,MAC,2017
+Drake Beasley,recruit,RB,5.6,3,Boise,MWC,2017
+Cartrell Thomas,recruit,WR,5.6,3,Boise,MWC,2017
+Chase Cord,recruit,QB,5.6,3,Boise,MWC,2017
+Tyson Williams,recruit,ATH,5.6,3,Nevada,MWC,2017
+Cameron Burston,recruit,QB,5.6,3,New Mexico,MWC,2017
+Bryce Wolma,recruit,TE,5.6,3,ARZ,PAC12,2017
+Bryce Gilbert,recruit,WR,5.6,3,ARZ,PAC12,2017
+Gary Brightwell,recruit,RB,5.6,3,ARZ,PAC12,2017
+Jeremiah Hawkins,recruit,ATH,5.6,3,CAL,PAC12,2017
+Tyler Lytle,recruit,QB,5.6,3,COL,PAC12,2017
+Maurice Bell,recruit,WR,5.6,3,COL,PAC12,2017
+Alex Fontenot,recruit,RB,5.6,3,COL,PAC12,2017
+Laviska Shenault,recruit,WR,5.6,3,COL,PAC12,2017
+Nick Pickett,recruit,ATH,5.6,3,oregon,PAC12,2017
+Cyrus Habibi-Likio,recruit,RB,5.6,3,oregon,PAC12,2017
+Demetri Burch,recruit,ATH,5.6,3,oregon,PAC12,2017
+Jake Luton,recruit,QB,5.6,3,oregon state,PAC12,2017
+Trajon Cotton,recruit,ATH,5.6,3,oregon state,PAC12,2017
+Morrell Osling III,recruit,ATH,5.6,3,UCLA,PAC12,2017
+Tayler Katoa,recruit,ATH,5.6,3,USC,PAC12,2017
+Jason Shelley,recruit,QB,5.6,3,utah,PAC12,2017
+Jordan Lolohea,recruit,ATH,5.6,3,washington,PAC12,2017
+Easop Winston,recruit,WR,5.6,3,washington,PAC12,2017
+Marquese Taylor,recruit,ATH,5.5,3,Cincinnati,AAC,2017
+Jaelen Greene,recruit,RB,5.5,3,Cincinnati,AAC,2017
+Javan Hawes,recruit,WR,5.5,3,Cincinnati,AAC,2017
+Noah Hamlin,recruit,WR,5.5,3,Cincinnati,AAC,2017
+David Pindell,recruit,QB,5.5,3,UConn,AAC,2017
+Timothy Gardner-Russaw,recruit,ATH,5.5,3,UConn,AAC,2017
+Kingsley Ifedi,recruit,QB,5.5,3,East Carolina,AAC,2017
+Trace Christian,recruit,RB,5.5,3,East Carolina,AAC,2017
+Bryson Smith,recruit,QB,5.5,3,Houston,AAC,2017
+Parker Eichenberger,recruit,TE,5.5,3,Houston,AAC,2017
+Tre'von Bradley,recruit,ATH,5.5,3,Houston,AAC,2017
+Jeremy Singleton,recruit,WR,5.5,3,Houston,AAC,2017
+Quindon Lewis,recruit,ATH,5.5,3,Memphis,AAC,2017
+Gary Theard,recruit,ATH,5.5,3,Navy,AAC,2017
+Owen Piche,recruit,ATH,5.5,3,Navy,AAC,2017
+Kayce Medlock,recruit,RB,5.5,3,SMU,AAC,2017
+Austin Upshaw,recruit,QB,5.5,3,SMU,AAC,2017
+Griffin Sestili,recruit,TE,5.5,3,Temple,AAC,2017
+Todd Centeio,recruit,QB,5.5,3,Temple,AAC,2017
+Khalil McClain,recruit,WR,5.5,3,Tulane,AAC,2017
+Malik Jackson,recruit,WR,5.5,3,Tulsa,AAC,2017
+Keylon Stokes,recruit,WR,5.5,3,Tulsa,AAC,2017
+Shamari Brooks,recruit,RB,5.5,3,Tulsa,AAC,2017
+Gabriel Davis,recruit,TE,5.5,3,Central Florida,AAC,2017
+Randall St. Felix,recruit,WR,5.5,3,South Florida,AAC,2017
+Chauncy Smart,recruit,ATH,5.5,3,South Florida,AAC,2017
+Matthew Landers,recruit,ATH,5.5,3,georgia,SEC,2017
+Princeton Fant,recruit,ATH,5.5,3,tennessee,SEC,2017
+Will McBride,recruit,QB,5.5,3,tennessee,SEC,2017
+Jacquez Jones,recruit,WR,5.5,3,tennessee,SEC,2017
+James Bostic,recruit,WR,5.5,3,vanderbilt,SEC,2017
+Chris Pierce,recruit,WR,5.5,3,vanderbilt,SEC,2017
+Daulton Hyatt,recruit,QB,5.5,3,arkansas,SEC,2017
+Devion Warren,recruit,ATH,5.5,3,arkansas,SEC,2017
+John Samuel Shenker,recruit,TE,5.5,3,auburn,SEC,2017
+Jontre Kirklin,recruit,ATH,5.5,3,LSU,SEC,2017
+Alex Faniel,recruit,QB,5.5,3,ole miss,SEC,2017
+Jordan Ta'amu,recruit,QB,5.5,3,ole miss,SEC,2017
+Isaiah Woullard,recruit,RB,5.5,3,ole miss,SEC,2017
+Kylin Hill,recruit,RB,5.5,3,mississippi,SEC,2017
+Austin Williams,recruit,WR,5.5,3,mississippi,SEC,2017
+Patrick Brown,recruit,TE,5.5,3,BC,ACC,2017
+Jahmin Muse,recruit,WR,5.5,3,BC,ACC,2017
+Damond Johnson,recruit,WR,5.5,3,DUKE,ACC,2017
+Joshua Blackwell,recruit,ATH,5.5,3,DUKE,ACC,2017
+Marvin Hubbard,recruit,RB,5.5,3,DUKE,ACC,2017
+TD Roof,recruit,ATH,5.5,3,GTCH,ACC,2017
+Tobias Oliver,recruit,QB,5.5,3,GTCH,ACC,2017
+Jordan Ponchez-Mason,recruit,RB,5.5,3,GTCH,ACC,2017
+Nakia Robinson,recruit,RB,5.5,3,NCST,ACC,2017
+Erin Collins,recruit,RB,5.5,3,NCST,ACC,2017
+Matt McKay,recruit,QB,5.5,3,NCST,ACC,2017
+Grant Carrigan,recruit,TE,5.5,3,PITT,ACC,2017
+Tyler Sear,recruit,TE,5.5,3,PITT,ACC,2017
+Kenny Pickett,recruit,QB,5.5,3,PITT,ACC,2017
+Dontavius Butler,recruit,WR,5.5,3,PITT,ACC,2017
+Darian Street,recruit,WR,5.5,3,PITT,ACC,2017
+Nykeim Johnson,recruit,WR,5.5,3,SYR,ACC,2017
+Jamari Peacock,recruit,RB,5.5,3,VA,ACC,2017
+P.K. Kier,recruit,RB,5.5,3,VA,ACC,2017
+Kalil Pimpleton,recruit,ATH,5.5,3,VT,ACC,2017
+Bryce Watts,recruit,ATH,5.5,3,VT,ACC,2017
+Terius  Wheatley,recruit,RB,5.5,3,VT,ACC,2017
+Lecitus Smith,recruit,TE,5.5,3,VT,ACC,2017
+Jaquarii Roberson,recruit,WR,5.5,3,WFST,ACC,2017
+Tony Adams,recruit,ATH,5.5,3,ILL,BIG10,2017
+Cameron Thomas,recruit,QB,5.5,3,ILL,BIG10,2017
+Ra'Von Bonner,recruit,RB,5.5,3,ILL,BIG10,2017
+Jacob Coons,recruit,TE,5.5,3,IOWA,BIG10,2017
+Brandon Smith,recruit,WR,5.5,3,IOWA,BIG10,2017
+Ihmir Smith-Marsette,recruit,ATH,5.5,3,IOWA,BIG10,2017
+Andrew Park,recruit,TE,5.5,3,MYLD,BIG10,2017
+C.J. Hayes,recruit,ATH,5.5,3,MIST,BIG10,2017
+Jack Camper,recruit,TE,5.5,3,MIST,BIG10,2017
+Darien Clemons,recruit,ATH,5.5,3,MIST,BIG10,2017
+Connor Heyward,recruit,ATH,5.5,3,MIST,BIG10,2017
+Tanner Morgan,recruit,QB,5.5,3,MINN,BIG10,2017
+Nate Umlor,recruit,TE,5.5,3,MINN,BIG10,2017
+Jaylin Bradley,recruit,RB,5.5,3,NEB,BIG10,2017
+Ben Miles,recruit,RB,5.5,3,NEB,BIG10,2017
+Kyric McGowan,recruit,RB,5.5,3,NWU,BIG10,2017
+Berkeley Holman,recruit,WR,5.5,3,NWU,BIG10,2017
+Tyler Hamilton,recruit,WR,5.5,3,PUR,BIG10,2017
+Darius Pittman,recruit,WR,5.5,3,PUR,BIG10,2017
+Terry Wright,recruit,WR,5.5,3,PUR,BIG10,2017
+D'Jaundrae Edwards,recruit,WR,5.5,3,PUR,BIG10,2017
+Edwin Lopez,recruit,ATH,5.5,3,RUT,BIG10,2017
+Everett Wormley,recruit,WR,5.5,3,RUT,BIG10,2017
+Tim Barrow,recruit,ATH,5.5,3,RUT,BIG10,2017
+Abram Smith,recruit,RB,5.5,3,BAY,BIG12,2017
+Tyler Henderson,recruit,TE,5.5,3,BAY,BIG12,2017
+John Nagel,recruit,TE,5.5,3,IWST,BIG12,2017
+Charlie Kolar,recruit,TE,5.5,3,IWST,BIG12,2017
+Peyton Bender,recruit,QB,5.5,3,KAN,BIG12,2017
+Quan Hampton,recruit,WR,5.5,3,KAN,BIG12,2017
+Kerr Johnson,recruit,WR,5.5,3,KAN,BIG12,2017
+Bernard Goodwater,recruit,RB,5.5,3,KNST,BIG12,2017
+Tancey Richardson,recruit,ATH,5.5,3,KNST,BIG12,2017
+Thabo Mwaniki,recruit,ATH,5.5,3,OKST,BIG12,2017
+Tracin Wallace,recruit,ATH,5.5,3,OKST,BIG12,2017
+Baron Odom,recruit,TE,5.5,3,OKST,BIG12,2017
+Patrick Mckaufman,recruit,WR,5.5,3,OKST,BIG12,2017
+Jordan Pouncey,recruit,WR,5.5,3,TEX,BIG12,2017
+Bronson Boyd,recruit,WR,5.5,3,TXTC,BIG12,2017
+McLane Carter,recruit,QB,5.5,3,TXTC,BIG12,2017
+Alec Sinkfield,recruit,ATH,5.5,3,West Virginia,BIG12,2017
+Dominique Maiden,recruit,WR,5.5,3,West Virginia,BIG12,2017
+David Isreal,recruit,QB,5.5,3,West Virginia,BIG12,2017
+Chase Lasater,recruit,RB,5.5,3,fau,CUSA,2017
+Noah Curtis,recruit,ATH,5.5,3,fiu,CUSA,2017
+George Scott,recruit,WR,5.5,3,latech,CUSA,2017
+Elijah Walker,recruit,QB,5.5,3,latech,CUSA,2017
+Armani Levias,recruit,TE,5.5,3,marshall,CUSA,2017
+Monterio Hunt,recruit,ATH,5.5,3,marshall,CUSA,2017
+Maurice Gordon,recruit,RB,5.5,3,middletennessee,CUSA,2017
+Jaelon Darden,recruit,WR,5.5,3,northtexas,CUSA,2017
+Miklo Smalls,recruit,QB,5.5,3,rice,CUSA,2017
+Jaylond Adams,recruit,WR,5.5,3,southernmiss,CUSA,2017
+Tim Jones,recruit,WR,5.5,3,southernmiss,CUSA,2017
+Josh Fields,recruit,RB,5.5,3,utep,CUSA,2017
+Tariq Woolen,recruit,WR,5.5,3,utsa,CUSA,2017
+Chance McLeod,recruit,TE,5.5,3,utsa,CUSA,2017
+Bentley Hanshaw,recruit,TE,5.5,3,BYU,IND,2017
+Isaac Rex,recruit,TE,5.5,3,BYU,IND,2017
+Thomas Hennigan,recruit,WR,5.5,3,appalachianstate,MAC,2017
+Troy Brown,recruit,WR,5.5,3,centralmichigan,MAC,2017
+Jaylon Mascorro,recruit,ATH,5.5,3,newmexicostate,MAC,2017
+Jaylen Gipson,recruit,QB,5.5,3,texasstate,MAC,2017
+Anthony Smith,recruit,RB,5.5,3,texasstate,MAC,2017
+Drew Rosi,recruit,TE,5.5,3,toledo,MAC,2017
+Marcus Jones,recruit,ATH,5.5,3,troy,MAC,2017
+Jakyle Holmes,recruit,RB,5.5,3,ulm,MAC,2017
+Luke Sanders,recruit,WR,5.5,3,westernmichigan,MAC,2017
+Kekaula Kaniho,recruit,ATH,5.5,3,Boise,MWC,2017
+Damon Cole,recruit,ATH,5.5,3,Boise,MWC,2017
+Warren Jackson,recruit,WR,5.5,3,Colorado State,MWC,2017
+Griffin Hammer,recruit,TE,5.5,3,Colorado State,MWC,2017
+Jadon Walker,recruit,ATH,5.5,3,Colorado State,MWC,2017
+Marcus McElroy,recruit,RB,5.5,3,Colorado State,MWC,2017
+Justice McCoy,recruit,QB,5.5,3,Colorado State,MWC,2017
+Derrion Grim,recruit,WR,5.5,3,Fresno,MWC,2017
+K.C. Cureton,recruit,QB,5.5,3,Nevada,MWC,2017
+Austin Arnold,recruit,WR,5.5,3,Nevada,MWC,2017
+Chance Bell,recruit,RB,5.5,3,San Diego,MWC,2017
+Ethan Dedeaux,recruit,WR,5.5,3,San Diego,MWC,2017
+Cam Roane,recruit,QB,5.5,3,San Diego,MWC,2017
+Shane Coleman,recruit,TE,5.5,3,San Diego,MWC,2017
+Drew Tejchman,recruit,ATH,5.5,3,UNLV,MWC,2017
+C.J. Coldon,recruit,WR,5.5,3,Wyoming,MWC,2017
+Tyler Vander Waal,recruit,QB,5.5,3,Wyoming,MWC,2017
+Rhett Rodriguez,recruit,QB,5.5,3,ARZ,PAC12,2017
+Brian Casteel,recruit,WR,5.5,3,ARZ,PAC12,2017
+Tony Wallace,recruit,ATH,5.5,3,ARZ,PAC12,2017
+Curtis Hodges,recruit,WR,5.5,3,AZST,PAC12,2017
+Ben Moos,recruit,TE,5.5,3,CAL,PAC12,2017
+Sebastian Olver,recruit,ATH,5.5,3,COL,PAC12,2017
+Jaylon Jackson,recruit,WR,5.5,3,COL,PAC12,2017
+Darrian Felix,recruit,RB,5.5,3,oregon,PAC12,2017
+CJ Verdell,recruit,RB,5.5,3,oregon,PAC12,2017
+Johnny Johnson III,recruit,WR,5.5,3,oregon,PAC12,2017
+Darrian McNeal,recruit,ATH,5.5,3,oregon,PAC12,2017
+Daewood Davis,recruit,WR,5.5,3,oregon,PAC12,2017
+Arex Flemings,recruit,WR,5.5,3,oregon state,PAC12,2017
+Kaleb Hayes,recruit,ATH,5.5,3,oregon state,PAC12,2017
+Quantino Allen,recruit,ATH,5.5,3,oregon state,PAC12,2017
+Aidan Willard,recruit,QB,5.5,3,oregon state,PAC12,2017
+Kesi Ah-Hoy,recruit,RB,5.5,3,oregon state,PAC12,2017
+Austin Burton,recruit,QB,5.5,3,UCLA,PAC12,2017
+Jaylen Dixon,recruit,ATH,5.5,3,utah,PAC12,2017
+Caleb Perry,recruit,RB,5.5,3,washington,PAC12,2017
+Trent Cloud,recruit,WR,5.4,2,Cincinnati,AAC,2017
+Desmond Ridder,recruit,QB,5.4,2,Cincinnati,AAC,2017
+Wilson Huber,recruit,TE,5.4,2,Cincinnati,AAC,2017
+Robert King,recruit,ATH,5.4,2,UConn,AAC,2017
+Jordan Swann,recruit,ATH,5.4,2,UConn,AAC,2017
+Garrison Burnett,recruit,ATH,5.4,2,UConn,AAC,2017
+Marvin Washington,recruit,QB,5.4,2,UConn,AAC,2017
+Mydreon Vines,recruit,WR,5.4,2,East Carolina,AAC,2017
+Darius Pinnix,recruit,RB,5.4,2,East Carolina,AAC,2017
+Eric Weber,recruit,TE,5.4,2,East Carolina,AAC,2017
+Devodric Bynum,recruit,ATH,5.4,2,Houston,AAC,2017
+Coye Fairman,recruit,WR,5.4,2,Memphis,AAC,2017
+Timothy Taylor,recruit,RB,5.4,2,Memphis,AAC,2017
+Zay Cullens,recruit,ATH,5.4,2,Memphis,AAC,2017
+Jared Edwards,recruit,TE,5.4,2,Memphis,AAC,2017
+Tyce Daniel,recruit,WR,5.4,2,Memphis,AAC,2017
+LaAndre Thomas,recruit,ATH,5.4,2,Memphis,AAC,2017
+Khari Dickinson,recruit,RB,5.4,2,Navy,AAC,2017
+Garrett Winn,recruit,RB,5.4,2,Navy,AAC,2017
+Jelani McCargo,recruit,RB,5.4,2,Navy,AAC,2017
+Dean Sise,recruit,WR,5.4,2,Navy,AAC,2017
+C.J. Williams,recruit,WR,5.4,2,Navy,AAC,2017
+Ahmir Lee,recruit,RB,5.4,2,Navy,AAC,2017
+Antwione Sims,recruit,RB,5.4,2,Navy,AAC,2017
+Dalen Morris,recruit,QB,5.4,2,Navy,AAC,2017
+Jamale Carothers,recruit,RB,5.4,2,Navy,AAC,2017
+Judah Bell,recruit,WR,5.4,2,SMU,AAC,2017
+Tyler Page,recruit,ATH,5.4,2,SMU,AAC,2017
+Jadan Blue,recruit,WR,5.4,2,Temple,AAC,2017
+Emil Moody,recruit,ATH,5.4,2,Temple,AAC,2017
+Jaetavian Toles,recruit,WR,5.4,2,Tulane,AAC,2017
+Stephon Huderson,recruit,RB,5.4,2,Tulane,AAC,2017
+Will Wallace,recruit,TE,5.4,2,Tulane,AAC,2017
+Dane Ledford,recruit,ATH,5.4,2,Tulane,AAC,2017
+Willie Langham,recruit,WR,5.4,2,Tulane,AAC,2017
+Kevin LeDee,recruit,WR,5.4,2,Tulane,AAC,2017
+Reed Martin,recruit,ATH,5.4,2,Tulsa,AAC,2017
+Zaven Collins,recruit,ATH,5.4,2,Tulsa,AAC,2017
+Seth Boomer,recruit,QB,5.4,2,Tulsa,AAC,2017
+Bryson Powers,recruit,ATH,5.4,2,Tulsa,AAC,2017
+JC Santana,recruit,WR,5.4,2,Tulsa,AAC,2017
+Duran Bell,recruit,ATH,5.4,2,South Florida,AAC,2017
+Jernard Phillips,recruit,WR,5.4,2,South Florida,AAC,2017
+Jatarvious Whitlow,recruit,ATH,5.4,2,auburn,SEC,2017
+Hunter Long,recruit,TE,5.4,2,BC,ACC,2017
+Noah Jordan-Williams,recruit,WR,5.4,2,BC,ACC,2017
+Tate Haynes,recruit,QB,5.4,2,BC,ACC,2017
+Matthew McDonald,recruit,QB,5.4,2,BC,ACC,2017
+Max Fisher,recruit,WR,5.4,2,NCST,ACC,2017
+Kayne Roberts,recruit,RB,5.4,2,UNC,ACC,2017
+Ifeatu Melifonwu,recruit,ATH,5.4,2,SYR,ACC,2017
+Aaron Hackett,recruit,TE,5.4,2,SYR,ACC,2017
+Eric Coley,recruit,ATH,5.4,2,SYR,ACC,2017
+Russell Thompson,recruit,WR,5.4,2,SYR,ACC,2017
+Cameron Jordan,recruit,WR,5.4,2,SYR,ACC,2017
+Markenzy Pierre,recruit,RB,5.4,2,SYR,ACC,2017
+Darnell Pratt,recruit,WR,5.4,2,VA,ACC,2017
+Coby Davis,recruit,ATH,5.4,2,WFST,ACC,2017
+Tayvon Bowers,recruit,QB,5.4,2,WFST,ACC,2017
+Sage Surratt,recruit,WR,5.4,2,WFST,ACC,2017
+Louis Dorsey,recruit,WR,5.4,2,ILL,BIG10,2017
+Peyton Hendershot,recruit,TE,5.4,2,IND,BIG10,2017
+Michael Ziemba,recruit,TE,5.4,2,IND,BIG10,2017
+De'Angelo Philyor,recruit,WR,5.4,2,IND,BIG10,2017
+Nick Tronti,recruit,QB,5.4,2,IND,BIG10,2017
+Henry Marchese,recruit,WR,5.4,2,IOWA,BIG10,2017
+Max Cooper,recruit,WR,5.4,2,IOWA,BIG10,2017
+MJ Jarrell,recruit,WR,5.4,2,MYLD,BIG10,2017
+Kurt Taylor,recruit,RB,5.4,2,MICH,BIG10,2017
+Laress Nelson,recruit,WR,5.4,2,MIST,BIG10,2017
+Dominik London,recruit,RB,5.4,2,MINN,BIG10,2017
+Nathan Bursch,recruit,TE,5.4,2,MINN,BIG10,2017
+Harry Van Dyne,recruit,WR,5.4,2,MINN,BIG10,2017
+Reyondous Estes,recruit,QB,5.4,2,MINN,BIG10,2017
+Andrew Marty,recruit,QB,5.4,2,NWU,BIG10,2017
+Isaac Zico,recruit,WR,5.4,2,PUR,BIG10,2017
+Keyron Catlett,recruit,ATH,5.4,2,PUR,BIG10,2017
+Tyler Hayek,recruit,ATH,5.4,2,RUT,BIG10,2017
+Naijee Jones,recruit,ATH,5.4,2,RUT,BIG10,2017
+Brendan Devera,recruit,RB,5.4,2,RUT,BIG10,2017
+Travis Vokolek,recruit,TE,5.4,2,RUT,BIG10,2017
+Elijah Barnwell,recruit,RB,5.4,2,RUT,BIG10,2017
+Raheem Blackshear,recruit,RB,5.4,2,RUT,BIG10,2017
+Matthew Eaton,recruit,WR,5.4,2,IWST,BIG12,2017
+Takulve Williams,recruit,WR,5.4,2,KAN,BIG12,2017
+Spencer Misko,recruit,TE,5.4,2,KNST,BIG12,2017
+Sammy Wheeler,recruit,QB,5.4,2,KNST,BIG12,2017
+Sione Finefeuiaki,recruit,TE,5.4,2,OKST,BIG12,2017
+Nijeel Meeking,recruit,WR,5.4,2,TCU,BIG12,2017
+Christian Williams,recruit,TE,5.4,2,TCU,BIG12,2017
+Desmond Nisby,recruit,RB,5.4,2,TXTC,BIG12,2017
+Ricky Johns,recruit,ATH,5.4,2,West Virginia,BIG12,2017
+Victor Tucker,recruit,WR,5.4,2,charlotte,CUSA,2017
+Cameron Dollar,recruit,WR,5.4,2,charlotte,CUSA,2017
+Cameron Bent,recruit,ATH,5.4,2,charlotte,CUSA,2017
+Mic Roof,recruit,QB,5.4,2,charlotte,CUSA,2017
+Jordan Merrell,recruit,WR,5.4,2,fau,CUSA,2017
+Willie Wright,recruit,WR,5.4,2,fau,CUSA,2017
+Logan Peterson,recruit,TE,5.4,2,fau,CUSA,2017
+Denzel Houston,recruit,QB,5.4,2,fau,CUSA,2017
+Kaylan Wiggins,recruit,QB,5.4,2,fiu,CUSA,2017
+Bryce Singleton,recruit,WR,5.4,2,fiu,CUSA,2017
+Cualan Williams,recruit,WR,5.4,2,latech,CUSA,2017
+Griffin Hebert,recruit,WR,5.4,2,latech,CUSA,2017
+Marcel Williams,recruit,WR,5.4,2,marshall,CUSA,2017
+Trevaughn Rodriguez,recruit,RB,5.4,2,marshall,CUSA,2017
+Naquan Renalds,recruit,WR,5.4,2,marshall,CUSA,2017
+Devin Miller,recruit,TE,5.4,2,marshall,CUSA,2017
+Brad Anderson,recruit,ATH,5.4,2,middletennessee,CUSA,2017
+Zeke Cobb,recruit,WR,5.4,2,middletennessee,CUSA,2017
+Remington Lutz,recruit,TE,5.4,2,northtexas,CUSA,2017
+Tyreke Davis,recruit,ATH,5.4,2,northtexas,CUSA,2017
+Evan Johnson,recruit,RB,5.4,2,northtexas,CUSA,2017
+Cade Pearson,recruit,QB,5.4,2,northtexas,CUSA,2017
+Trevor Terry,recruit,WR,5.4,2,southernmiss,CUSA,2017
+Darius Maberry,recruit,RB,5.4,2,southernmiss,CUSA,2017
+Marcelo Rodriguez,recruit,QB,5.4,2,southernmiss,CUSA,2017
+Steven Anderson,recruit,QB,5.4,2,southernmiss,CUSA,2017
+Alex Fernandes,recruit,QB,5.4,2,utep,CUSA,2017
+Frank Harris,recruit,QB,5.4,2,utsa,CUSA,2017
+Dadrian Taylor,recruit,ATH,5.4,2,utsa,CUSA,2017
+Bryce Rivers,recruit,QB,5.4,2,utsa,CUSA,2017
+B.J. Daniels,recruit,RB,5.4,2,utsa,CUSA,2017
+Tariq Young,recruit,WR,5.4,2,wku,CUSA,2017
+Davis Shanley,recruit,QB,5.4,2,wku,CUSA,2017
+Dionte' Ruffin,recruit,ATH,5.4,2,wku,CUSA,2017
+Joshua Samuel,recruit,RB,5.4,2,wku,CUSA,2017
+Latheron Rogers-Anderson,recruit,ATH,5.4,2,wku,CUSA,2017
+Tanner Baker,recruit,TE,5.4,2,BYU,IND,2017
+Tariq Buchanan,recruit,WR,5.4,2,BYU,IND,2017
+Mason Fakahua,recruit,ATH,5.4,2,BYU,IND,2017
+Malik Williams,recruit,ATH,5.4,2,appalachianstate,MAC,2017
+Jake Henry,recruit,WR,5.4,2,appalachianstate,MAC,2017
+Daetrich Harrington,recruit,RB,5.4,2,appalachianstate,MAC,2017
+Aldon Clark,recruit,QB,5.4,2,arkansasstate,MAC,2017
+Larry Wooden,recruit,RB,5.4,2,arkansasstate,MAC,2017
+Keegan Cossou,recruit,TE,5.4,2,centralmichigan,MAC,2017
+Jamezz Kimbrough,recruit,ATH,5.4,2,centralmichigan,MAC,2017
+JaCorey Sullivan,recruit,WR,5.4,2,centralmichigan,MAC,2017
+Darius Bracy,recruit,ATH,5.4,2,centralmichigan,MAC,2017
+Rodley Jolicoeur,recruit,ATH,5.4,2,kentstate,MAC,2017
+Jonathan Moore,recruit,RB,5.4,2,kentstate,MAC,2017
+Xander Yarberough,recruit,TE,5.4,2,newmexicostate,MAC,2017
+Josh Adkins,recruit,QB,5.4,2,newmexicostate,MAC,2017
+Jeremy Hodge,recruit,QB,5.4,2,newmexicostate,MAC,2017
+Jaylin Nelson,recruit,ATH,5.4,2,texasstate,MAC,2017
+Kordell Rodgers,recruit,ATH,5.4,2,texasstate,MAC,2017
+Kishawn Kelley,recruit,QB,5.4,2,texasstate,MAC,2017
+Jeremiah Haydel,recruit,WR,5.4,2,texasstate,MAC,2017
+Willie Jones,recruit,QB,5.4,2,texasstate,MAC,2017
+Tyler Robinson,recruit,WR,5.4,2,texasstate,MAC,2017
+Caleb Martin,recruit,QB,5.4,2,toledo,MAC,2017
+Nick Kovacs,recruit,WR,5.4,2,toledo,MAC,2017
+Luke Whittemore,recruit,WR,5.4,2,troy,MAC,2017
+Damion Willis,recruit,WR,5.4,2,troy,MAC,2017
+Terence Dunlap,recruit,RB,5.4,2,troy,MAC,2017
+C.J. Fletcher,recruit,WR,5.4,2,ulm,MAC,2017
+Zachari Jackson,recruit,WR,5.4,2,ulm,MAC,2017
+Javin Myers,recruit,RB,5.4,2,ulm,MAC,2017
+Prince Walker,recruit,RB,5.4,2,westernmichigan,MAC,2017
+Reece Goddard,recruit,QB,5.4,2,westernmichigan,MAC,2017
+Cameron Butler,recruit,TE,5.4,2,Colorado State,MWC,2017
+Darius Wise,recruit,RB,5.4,2,Colorado State,MWC,2017
+Ronnie Rivers,recruit,RB,5.4,2,Fresno,MWC,2017
+Gunner Javernick,recruit,TE,5.4,2,Fresno,MWC,2017
+Jorge Reyna,recruit,QB,5.4,2,Fresno,MWC,2017
+Namani Parker,recruit,WR,5.4,2,Fresno,MWC,2017
+Daniel Moraga,recruit,TE,5.4,2,Fresno,MWC,2017
+Zane Pope,recruit,WR,5.4,2,Fresno,MWC,2017
+Damien DeGruy,recruit,TE,5.4,2,Fresno,MWC,2017
+Aaron Mosby,recruit,ATH,5.4,2,Fresno,MWC,2017
+Bryson Carroll,recruit,ATH,5.4,2,New Mexico,MWC,2017
+Marcus Hayes,recruit,ATH,5.4,2,New Mexico,MWC,2017
+Isaiah Richardson,recruit,WR,5.4,2,San Diego,MWC,2017
+Marckell Grayson,recruit,QB,5.4,2,UNLV,MWC,2017
+Noah Bean,recruit,WR,5.4,2,UNLV,MWC,2017
+Tariq Hollandsworth,recruit,RB,5.4,2,UNLV,MWC,2017
+Avante Cox,recruit,WR,5.4,2,Wyoming,MWC,2017
+Jared Scott,recruit,WR,5.4,2,Wyoming,MWC,2017
+Mark Walton,recruit,TE,5.4,2,AZST,PAC12,2017
+Daniel Scott,recruit,ATH,5.4,2,CAL,PAC12,2017
+Aaron Short,recruit,WR,5.4,2,oregon state,PAC12,2017
+B.J. Baylor,recruit,RB,5.4,2,oregon state,PAC12,2017
+Dominick Silvels,recruit,WR,5.4,2,washington,PAC12,2017
+Cole Dubots,recruit,RB,5.4,2,washington,PAC12,2017
+Davontavean Martin,recruit,WR,5.4,2,washington,PAC12,2017
+Ryan Fitton,recruit,TE,5.3,2,UConn,AAC,2017
+Jordan McAfee,recruit,QB,5.3,2,UConn,AAC,2017
+Elijah Gooden,recruit,RB,5.3,2,Houston,AAC,2017
+Devon High,recruit,WR,5.3,2,Navy,AAC,2017
+Tyger Goslin,recruit,QB,5.3,2,Navy,AAC,2017
+Kyle Gibbs,recruit,ATH,5.3,2,Navy,AAC,2017
+Myles Fells,recruit,RB,5.3,2,Navy,AAC,2017
+Jake Springer,recruit,WR,5.3,2,Navy,AAC,2017
+Micah Farrar,recruit,WR,5.3,2,Navy,AAC,2017
+Mario Nolan-Dillard,recruit,QB,5.3,2,Navy,AAC,2017
+Caleb Clear,recruit,WR,5.3,2,Navy,AAC,2017
+George Reid,recruit,WR,5.3,2,Temple,AAC,2017
+Collin Washington,recruit,ATH,5.3,2,Temple,AAC,2017
+Travis Tucker,recruit,WR,5.3,2,Tulane,AAC,2017
+Jonathan Banks,recruit,QB,5.3,2,Tulane,AAC,2017
+Jabril Clewis,recruit,WR,5.3,2,Tulane,AAC,2017
+Noah Vedral,recruit,QB,5.3,2,Central Florida,AAC,2017
+Frederick  Lloyd,recruit,WR,5.3,2,South Florida,AAC,2017
+Tim Jordan,recruit,RB,5.3,2,tennessee,SEC,2017
+Drew McQuarrie,recruit,QB,5.3,2,BC,ACC,2017
+Noah Gray,recruit,TE,5.3,2,DUKE,ACC,2017
+Adam Boselli,recruit,TE,5.3,2,NCST,ACC,2017
+Sharod Johnson,recruit,WR,5.3,2,SYR,ACC,2017
+Elliott Brown,recruit,ATH,5.3,2,VA,ACC,2017
+A.J. Bush,recruit,QB,5.3,2,VT,ACC,2017
+Tyrese Fryfogle,recruit,WR,5.3,2,IND,BIG10,2017
+Craig Nelson,recruit,RB,5.3,2,IND,BIG10,2017
+Nate Wieland,recruit,ATH,5.3,2,IOWA,BIG10,2017
+Neil McLaurin,recruit,QB,5.3,2,MINN,BIG10,2017
+Griffin Alstott,recruit,QB,5.3,2,PUR,BIG10,2017
+Hunter Hayek,recruit,WR,5.3,2,RUT,BIG10,2017
+Danny Vanden Boom,recruit,QB,5.3,2,WIS,BIG10,2017
+Tarique Milton,recruit,WR,5.3,2,IWST,BIG12,2017
+Deandre Williams,recruit,WR,5.3,2,fiu,CUSA,2017
+DeCavilon Reese,recruit,RB,5.3,2,marshall,CUSA,2017
+Brenden Knox,recruit,RB,5.3,2,marshall,CUSA,2017
+Reed Blankenship,recruit,ATH,5.3,2,middletennessee,CUSA,2017
+Jimmy Marshall III,recruit,WR,5.3,2,middletennessee,CUSA,2017
+Tyrese Johnson,recruit,WR,5.3,2,middletennessee,CUSA,2017
+John Turner,recruit,QB,5.3,2,middletennessee,CUSA,2017
+Devlin Isadore,recruit,QB,5.3,2,northtexas,CUSA,2017
+Gregory White,recruit,WR,5.3,2,northtexas,CUSA,2017
+Jaeger Bull,recruit,TE,5.3,2,rice,CUSA,2017
+Brandt Peterson,recruit,TE,5.3,2,rice,CUSA,2017
+Chris Boudreaux,recruit,ATH,5.3,2,rice,CUSA,2017
+Cameron Montgomery,recruit,RB,5.3,2,rice,CUSA,2017
+Bubba Fludd,recruit,ATH,5.3,2,southernmiss,CUSA,2017
+T'Rod Daniels,recruit,RB,5.3,2,southernmiss,CUSA,2017
+David Lucero,recruit,TE,5.3,2,utep,CUSA,2017
+Calvin Brownholtz,recruit,QB,5.3,2,utep,CUSA,2017
+Michael  Goff,recruit,TE,5.3,2,utsa,CUSA,2017
+Robert Ursua ,recruit,TE,5.3,2,utsa,CUSA,2017
+Steven Witchoskey,recruit,TE,5.3,2,wku,CUSA,2017
+Jakairi Moses,recruit,RB,5.3,2,wku,CUSA,2017
+Keenan Ellis,recruit,WR,5.3,2,BYU,IND,2017
+Peyton  Derrick,recruit,QB,5.3,2,appalachianstate,MAC,2017
+De'Vonta Smith,recruit,RB,5.3,2,appalachianstate,MAC,2017
+Jonathan Adams,recruit,ATH,5.3,2,arkansasstate,MAC,2017
+Chad Gooden,recruit,ATH,5.3,2,arkansasstate,MAC,2017
+Charles Jones,recruit,RB,5.3,2,centralmichigan,MAC,2017
+Julian Hicks,recruit,WR,5.3,2,centralmichigan,MAC,2017
+Isaac Vance,recruit,RB,5.3,2,kentstate,MAC,2017
+Dakari Carter,recruit,WR,5.3,2,toledo,MAC,2017
+Bryce Mitchell,recruit,WR,5.3,2,toledo,MAC,2017
+Darius Corbett,recruit,WR,5.3,2,toledo,MAC,2017
+Shon'Derious Spralling,recruit,WR,5.3,2,troy,MAC,2017
+Brett Clark,recruit,WR,5.3,2,troy,MAC,2017
+Bryant Badie,recruit,ATH,5.3,2,ulm,MAC,2017
+Tajhnick Bishop,recruit,ATH,5.3,2,ulm,MAC,2017
+Tyron Arnett,recruit,WR,5.3,2,westernmichigan,MAC,2017
+Rathen Ricedorff,recruit,QB,5.3,2,Boise,MWC,2017
+Jordan Mims,recruit,RB,5.3,2,Fresno,MWC,2017
+Chris Coleman,recruit,ATH,5.3,2,Fresno,MWC,2017
+Nate Jones,recruit,RB,5.3,2,Fresno,MWC,2017
+McLane Mannix,recruit,ATH,5.3,2,Nevada,MWC,2017
+Mark Salazar,recruit,QB,5.3,2,San Diego,MWC,2017
+Kyre Richardson,recruit,WR,5.3,2,San Diego,MWC,2017
+Jamaal Neal,recruit,WR,5.3,2,UNLV,MWC,2017
+Jeremy Clark,recruit,TE,5.3,2,UNLV,MWC,2017
+Trey Dorfner,recruit,ATH,5.3,2,Wyoming,MWC,2017
+Trey Woods,recruit,RB,5.3,2,Wyoming,MWC,2017
+Nate Weinman,recruit,TE,5.3,2,Wyoming,MWC,2017
+Erik Renfroe,recruit,WR,5.3,2,Wyoming,MWC,2017
+Gavin Reinwald,recruit,TE,5.3,2,CAL,PAC12,2017
+Damion Lee,recruit,ATH,5.3,2,washington,PAC12,2017
+Travell Harris,recruit,WR,5.3,2,washington,PAC12,2017
+Blake Proehl,recruit,WR,5.2,2,East Carolina,AAC,2017
+Davion Ford,recruit,RB,5.2,2,Houston,AAC,2017
+Connor Adair,recruit,QB,5.2,2,Memphis,AAC,2017
+Dylan Parham,recruit,ATH,5.2,2,Memphis,AAC,2017
+Quinzel Lockhart,recruit,WR,5.2,2,Navy,AAC,2017
+Jeremiah Boyd,recruit,QB,5.2,2,Navy,AAC,2017
+Ben Glass,recruit,QB,5.2,2,Navy,AAC,2017
+L'Jeron Holder,recruit,WR,5.2,2,Temple,AAC,2017
+Patrick Johnson,recruit,ATH,5.2,2,Tulane,AAC,2017
+Thomas Fletcher,recruit,ATH,5.2,2,alabama,SEC,2017
+Justin Jefferson,recruit,WR,5.2,2,LSU,SEC,2017
+EJ Perry,recruit,QB,5.2,2,BC,ACC,2017
+Adonicas Sanders,recruit,WR,5.2,2,GTCH,ACC,2017
+Ja'Sir Taylor,recruit,WR,5.2,2,WFST,ACC,2017
+Derrick Barnes,recruit,RB,5.2,2,PUR,BIG10,2017
+Ryan  Eachus,recruit,TE,5.2,2,charlotte,CUSA,2017
+Chris Phillips,recruit,TE,5.2,2,charlotte,CUSA,2017
+Antoine  Shaw,recruit,TE,5.2,2,charlotte,CUSA,2017
+Jacob White,recruit,WR,5.2,2,fiu,CUSA,2017
+Tavonn Salter,recruit,WR,5.2,2,middletennessee,CUSA,2017
+Austin Trammell,recruit,WR,5.2,2,rice,CUSA,2017
+Kris Leach,recruit,TE,5.2,2,wku,CUSA,2017
+Jacquez Sloan,recruit,ATH,5.2,2,wku,CUSA,2017
+D'Marco Jackson,recruit,RB,5.2,2,appalachianstate,MAC,2017
+Tim Frizzell,recruit,ATH,5.2,2,appalachianstate,MAC,2017
+Zach Thomas,recruit,QB,5.2,2,arkansasstate,MAC,2017
+Bernhard Raimann,recruit,TE,5.2,2,centralmichigan,MAC,2017
+Jack Combs,recruit,WR,5.2,2,centralmichigan,MAC,2017
+Ty Henderson,recruit,WR,5.2,2,centralmichigan,MAC,2017
+Xavier Williams,recruit,RB,5.2,2,kentstate,MAC,2017
+Kesean Gamble,recruit,RB,5.2,2,kentstate,MAC,2017
+Dustin Crum,recruit,QB,5.2,2,kentstate,MAC,2017
+Will Phillis,recruit,QB,5.2,2,kentstate,MAC,2017
+Donte Ross,recruit,WR,5.2,2,kentstate,MAC,2017
+Nathan Monnin,recruit,TE,5.2,2,kentstate,MAC,2017
+Raymond James,recruit,ATH,5.2,2,kentstate,MAC,2017
+Josh Foley,recruit,RB,5.2,2,newmexicostate,MAC,2017
+Gaven Swinson,recruit,WR,5.2,2,newmexicostate,MAC,2017
+Caleb Twyford,recruit,WR,5.2,2,texasstate,MAC,2017
+Damian Williams,recruit,QB,5.2,2,texasstate,MAC,2017
+T.J. Bedford,recruit,WR,5.2,2,texasstate,MAC,2017
+Nicholas Sims,recruit,RB,5.2,2,toledo,MAC,2017
+Jamal Turner,recruit,TE,5.2,2,toledo,MAC,2017
+Bubba Johnson,recruit,WR,5.2,2,troy,MAC,2017
+DK Billingsley,recruit,RB,5.2,2,troy,MAC,2017
+Sloan Spiller,recruit,TE,5.2,2,ulm,MAC,2017
+Ryan Lezzer,recruit,ATH,5.2,2,westernmichigan,MAC,2017
+Jaylen Hall,recruit,WR,5.2,2,westernmichigan,MAC,2017
+Patrick Jeune,recruit,WR,5.2,2,Fresno,MWC,2017
+Brian Burt,recruit,RB,5.2,2,Fresno,MWC,2017
+Benjamin Goodwin,recruit,WR,5.2,2,Nevada,MWC,2017
+Ian Zamudio,recruit,ATH,5.2,2,Nevada,MWC,2017
+Berdale Robins,recruit,ATH,5.2,2,Nevada,MWC,2017
+Elijah Cooks,recruit,WR,5.2,2,Nevada,MWC,2017
+Mar'quette Jackson,recruit,ATH,5.2,2,Nevada,MWC,2017
+Marcus Williams,recruit,TE,5.2,2,New Mexico,MWC,2017
+Fred Trevillion,recruit,WR,5.2,2,San Diego,MWC,2017
+Esaias Gandy,recruit,ATH,5.2,2,Wyoming,MWC,2017
+Xazavian Valladay,recruit,RB,5.2,2,Wyoming,MWC,2017
+K'Hari Lane,recruit,QB,5.2,2,ARZ,PAC12,2017
+Cameron Hairston,recruit,WR,0,0,UConn,AAC,2017
+Kevin Mensah,recruit,ATH,0,0,UConn,AAC,2017
+Michael Salisbury,recruit,ATH,0,0,Navy,AAC,2017
+Tyler Rogers,recruit,ATH,0,0,Navy,AAC,2017
+Keshon Farmer,recruit,ATH,0,0,Navy,AAC,2017
+Evan Fochtman,recruit,QB,0,0,Navy,AAC,2017
+Mykol Brooks,recruit,QB,0,0,Navy,AAC,2017
+Jacob Merchant,recruit,WR,0,0,Navy,AAC,2017
+Josh Johnson,recruit,RB,0,0,Navy,AAC,2017
+Kody  Crider,recruit,TE,0,0,Navy,AAC,2017
+Jaydon  Brooks,recruit,RB,0,0,Navy,AAC,2017
+B.J. Watson,recruit,WR,0,0,Navy,AAC,2017
+Powers Warren,recruit,TE,0,0,mississippi,SEC,2017
+Harry Trotter,recruit,RB,0,0,LOU,ACC,2017
+Tyrek Tisdale,recruit,WR,0,0,fau,CUSA,2017
+DeAndre McNeal,recruit,WR,0,0,fau,CUSA,2017
+Shemar Thornton,recruit,WR,0,0,fiu,CUSA,2017
+Remy Wasserbach,recruit,WR,0,0,middletennessee,CUSA,2017
+Elijah Rogers,recruit,TE,0,0,texasstate,MAC,2017
+Griffin Dahn,recruit,QB,0,0,Nevada,MWC,2017
+Ceejhay French-Love,recruit,TE,0,0,AZST,PAC12,2017

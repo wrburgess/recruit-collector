@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem "nokogiri"
-gem "rails", "5.0.0"
+gem "rails", "5.1.2"
 gem "sass-rails"
 gem "uglifier"
 gem "pry"

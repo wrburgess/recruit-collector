@@ -6,11 +6,11 @@ houston,80,Houston,AAC
 memphis,101,Memphis,AAC
 navy,102,Navy,AAC
 smu,82,SMU,AAC
-usf,655,South Florida,AAC
 temple,15,Temple,AAC
 tulane,106,Tulane,AAC
 tulsa,107,Tulsa,AAC
 ucf,210,Central Florida,AAC
+usf,655,South Florida,AAC
 bostoncollege,10,BC,ACC
 clemson,1,CLEM,ACC
 duke,2,DUKE,ACC
@@ -18,13 +18,14 @@ floridastate,3,FSU,ACC
 georgiatech,4,GTCH,ACC
 louisville,100,LOU,ACC
 miami,11,MIA,ACC
-northcarolina,6,UNC,ACC
 ncstate,7,NCST,ACC
+northcarolina,6,UNC,ACC
 pittsburgh,12,PITT,ACC
 syracuse,14,SYR,ACC
 virginia,8,VA,ACC
 virginiatech,16,VT,ACC
 wakeforest,9,WFST,ACC
+bwi,34,PSU,BIG10
 illinois,26,ILL,BIG10
 indiana,27,IND,BIG10
 iowa,28,IOWA,BIG10
@@ -35,7 +36,6 @@ minnesota,31,MINN,BIG10
 nebraska,23,NEB,BIG10
 northwestern,32,NWU,BIG10
 ohiostate,33,OSU,BIG10
-bwi,34,PSU,BIG10
 purdue,35,PUR,BIG10
 rutgers,13,RUT,BIG10
 wisconsin,36,WIS,BIG10
@@ -49,8 +49,30 @@ tcu,85,TCU,BIG12
 texas,83,TEX,BIG12
 texastech,86,TXTC,BIG12
 westvirginia,17,West Virginia,BIG12
+charlotte,700,charlotte,CUSA
+fau,701,fau,CUSA
+fiu,702,fiu,CUSA
+latech,703,latech,CUSA
+marshall,704,marshall,CUSA
+middletennessee,705,middletennessee,CUSA
+northtexas,706,northtexas,CUSA
+rice,707,rice,CUSA
+southernmiss,708,southernmiss,CUSA
+utep,709,utep,CUSA
+utsa,710,utsa,CUSA
+wku,711,wku,CUSA
 brighamyoung,88,BYU,IND
 notredame,14,Notre Dame,IND
+appalachianstate,720,appalachianstate,MAC
+arkansasstate,721,arkansasstate,MAC
+centralmichigan,716,centralmichigan,MAC
+kentstate,717,kentstate,MAC
+newmexicostate,723,newmexicostate,MAC
+texasstate,724,texasstate,MAC
+toledo,718,toledo,MAC
+troy,725,troy,MAC
+ulm,722,ulm,MAC
+westernmichigan,719,westernmichigan,MAC
 airforce,87,Air Force,MWC
 boisestate,112,Boise,MWC
 coloradostate,89,Colorado State,MWC
@@ -78,13 +100,13 @@ alabama,73,alabama,SEC
 arkansas,74,arkansas,SEC
 auburn,75,auburn,SEC
 florida,67,florida,SEC
-uga,68,georgia,SEC
 kentucky,69,kentucky,SEC
 lsu,76,LSU,SEC
-olemiss,77,ole miss,SEC
 mississippistate,78,mississippi,SEC
 missouri,22,missouri,SEC
+olemiss,77,ole miss,SEC
 southcarolina,70,carolina,SEC
-tennessee,71,tennessee,SEC
 tamu,84,texas,SEC
+tennessee,71,tennessee,SEC
+uga,68,georgia,SEC
 vanderbilt,72,vanderbilt,SEC
