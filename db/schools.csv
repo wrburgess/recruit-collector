@@ -11,43 +11,43 @@ tulane,106,Tulane,AAC
 tulsa,107,Tulsa,AAC
 ucf,210,Central Florida,AAC
 usf,655,South Florida,AAC
-bostoncollege,10,BC,ACC
-clemson,1,CLEM,ACC
-duke,2,DUKE,ACC
+bostoncollege,10,Boston,ACC
+clemson,1,Clemson,ACC
+duke,2,Duke,ACC
 floridastate,3,FSU,ACC
-georgiatech,4,GTCH,ACC
-louisville,100,LOU,ACC
-miami,11,MIA,ACC
-ncstate,7,NCST,ACC
+georgiatech,4,Georgia,ACC
+louisville,100,Louisville,ACC
+miami,11,Miami,ACC
+ncstate,7,NC State,ACC
 northcarolina,6,UNC,ACC
-pittsburgh,12,PITT,ACC
-syracuse,14,SYR,ACC
-virginia,8,VA,ACC
-virginiatech,16,VT,ACC
-wakeforest,9,WFST,ACC
-bwi,34,PSU,BIG10
-illinois,26,ILL,BIG10
-indiana,27,IND,BIG10
-iowa,28,IOWA,BIG10
-maryland,5,MYLD,BIG10
-michigan,29,MICH,BIG10
-michiganstate,30,MIST,BIG10
-minnesota,31,MINN,BIG10
-nebraska,23,NEB,BIG10
-northwestern,32,NWU,BIG10
-ohiostate,33,OSU,BIG10
-purdue,35,PUR,BIG10
-rutgers,13,RUT,BIG10
-wisconsin,36,WIS,BIG10
-baylor,79,BAY,BIG12
-iowastate,19,IWST,BIG12
-kansas,20,KAN,BIG12
-kansasstate,21,KNST,BIG12
-oklahoma,24,OKLA,BIG12
-oklahomastate,25,OKST,BIG12
+pittsburgh,12,Pitt,ACC
+syracuse,14,Syracuse,ACC
+virginia,8,virginia,ACC
+virginiatech,16,virginia,ACC
+wakeforest,9,Wake,ACC
+bwi,34,Penn,BIG10
+illinois,26,Illinois,BIG10
+indiana,27,Indiana,BIG10
+iowa,28,Iowa,BIG10
+maryland,5,Maryland,BIG10
+michigan,29,Michigan,BIG10
+michiganstate,30,Michigan,BIG10
+minnesota,31,Minnesota,BIG10
+nebraska,23,Nebraska,BIG10
+northwestern,32,Northwestern,BIG10
+ohiostate,33,Ohio State,BIG10
+purdue,35,Purdue,BIG10
+rutgers,13,Rutgers,BIG10
+wisconsin,36,Wisconsin,BIG10
+baylor,79,Baylor,BIG12
+iowastate,19,Iowa,BIG12
+kansas,20,Kansas,BIG12
+kansasstate,21,Kansas State,BIG12
+oklahoma,24,Oklahoma,BIG12
+oklahomastate,25,Oklahoma State,BIG12
 tcu,85,TCU,BIG12
-texas,83,TEX,BIG12
-texastech,86,TXTC,BIG12
+texas,83,Texas,BIG12
+texastech,86,Texas Tech,BIG12
 westvirginia,17,West Virginia,BIG12
 charlotte,700,charlotte,CUSA
 fau,701,fau,CUSA
@@ -83,11 +83,11 @@ newmexico,92,New Mexico,MWC
 sandiegostate,93,San Diego,MWC
 sanjosestate,44,San Jose,MWC
 unlv,40,UNLV,MWC
-wyoming,96,Wyoming,MWC
-arizona,57,ARZ,PAC12
-arizonastate,58,AZST,PAC12
-cal,59,CAL,PAC12
-colorado,18,COL,PAC12
+wyoming,96,wyoming,MWC
+arizona,57,arizona,PAC12
+arizonastate,58,arizona,PAC12
+cal,59,california,PAC12
+colorado,18,colorado,PAC12
 oregon,60,oregon,PAC12
 oregonstate,61,oregon state,PAC12
 stanford,63,stanford,PAC12
