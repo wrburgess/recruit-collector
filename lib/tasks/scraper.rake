@@ -5,9 +5,9 @@ namespace :scraper do
 
   desc "scrape for players"
   task :get_player_data do
-    year = 2018
+    year = 2019
     header = "name,class,pos,rate,star,school,conf,year\n"
-    file = "#{Rails.root}/db/2018_players_4.csv"
+    file = "#{Rails.root}/db/2019_players_mwc.csv"
     File.open(file, "w") do |csv|
       csv << header
 
@@ -18,7 +18,7 @@ namespace :scraper do
         doc = Nokogiri::HTML(open(url))
         player_data = get_player_data(doc)
         player_data.each do |player|
-          if eligible?(player["position_group_abbreviation"]) && player["year"] == 2018
+          if eligible?(player["position_group_abbreviation"]) && player["year"] == 2019
             player_details = parse_player_row(player, row["school_id"], row["conf_id"], year)
             puts player_details
             csv << player_details
