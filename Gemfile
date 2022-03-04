@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
+ruby "2.7.4"
 gem "nokogiri"
-gem "rails", "5.1.2"
-gem "sass-rails"
-gem "uglifier"
+gem "rails", "5.2.6"
 gem "pry"
+gem "byebug", "11.1.3"
 
 group :development, :test do
   # gem "debugger"

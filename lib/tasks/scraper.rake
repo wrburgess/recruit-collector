@@ -5,21 +5,23 @@ namespace :scraper do
 
   desc "scrape for players"
   task :get_player_data do
-    year = 2019
+    recruit_year = 2021
     header = "name,class,pos,rate,star,school,conf,year\n"
-    file = "#{Rails.root}/db/2019_players_mwc.csv"
+    file = "#{Rails.root}/db/2021_players_pac12.csv"
     File.open(file, "w") do |csv|
       csv << header
 
       CSV.foreach("#{Rails.root}/db/specific_schools.csv", :headers => :first_row) do |row|
-        sleep(5)
-        url = render_school_url(year, row)
+        sleep(rand(3..10))
+        url = render_school_url(recruit_year, row)
         puts url
-        doc = Nokogiri::HTML(open(url))
+
+        doc = Nokogiri::HTML(URI.open(url))
         player_data = get_player_data(doc)
+
         player_data.each do |player|
-          if eligible?(player["position_group_abbreviation"]) && player["year"] == 2019
-            player_details = parse_player_row(player, row["school_id"], row["conf_id"], year)
+          if eligible?(player["position_group_abbreviation"]) && player["year"] == recruit_year
+            player_details = parse_player_row(player, row["school_id"], row["conf_id"], recruit_year)
             puts player_details
             csv << player_details
           end

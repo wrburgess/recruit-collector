@@ -1,8 +1,13 @@
 rivals_school_name,rivals_school_id,school_id,conf_id
-boisestate,112,Boise,MWC
-coloradostate,89,Colorado State,MWC
-fresnostate,90,Fresno,MWC
-nevada,39,Nevada,MWC
-newmexico,92,New Mexico,MWC
-sandiegostate,93,San Diego,MWC
-unlv,40,UNLV,MWC
+arizona,57,arizona,PAC12
+arizonastate,58,arizona,PAC12
+cal,59,california,PAC12
+colorado,18,colorado,PAC12
+oregon,60,oregon,PAC12
+oregonstate,61,oregon state,PAC12
+stanford,63,stanford,PAC12
+ucla,64,UCLA,PAC12
+usc,62,USC,PAC12
+utah,94,utah,PAC12
+washington,65,washington,PAC12
+washingtonstate,66,washington,PAC12
