@@ -5,13 +5,13 @@ namespace :scraper do
 
   desc "scrape for players"
   task :get_player_data do
-    recruit_year = 2021
+    recruit_year = 2022
     header = "name,class,pos,rate,star,school,conf,year\n"
-    file = "#{Rails.root}/db/2021_players_pac12.csv"
+    file = "#{Rails.root}/db/2022_players_acc.csv"
     File.open(file, "w") do |csv|
       csv << header
 
-      CSV.foreach("#{Rails.root}/db/specific_schools.csv", :headers => :first_row) do |row|
+      CSV.foreach("#{Rails.root}/db/acc_schools.csv", :headers => :first_row) do |row|
         sleep(rand(3..10))
         url = render_school_url(recruit_year, row)
         puts url
