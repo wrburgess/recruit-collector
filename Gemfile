@@ -3,7 +3,9 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby file: '.tool-versions'
 gem "rails", "7.2.0"
-gem "sqlite3"
+
+gem 'csv', '3.3.0'
+gem "sqlite3", "2.0.3"
 
 group :development, :test do
   gem 'debug', '1.9.2'

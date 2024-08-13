@@ -3,13 +3,15 @@ baylor,79,Baylor,BIG12
 iowastate,19,Iowa,BIG12
 kansas,20,Kansas,BIG12
 kansasstate,21,Kansas State,BIG12
-oklahoma,24,Oklahoma,BIG12
 oklahomastate,25,Oklahoma State,BIG12
 tcu,85,TCU,BIG12
-texas,83,Texas,BIG12
 texastech,86,Texas Tech,BIG12
 westvirginia,17,West Virginia,BIG12
-utah,94,utah,PAC12
-arizona,57,arizona,PAC12
-arizonastate,58,arizona,PAC12
-colorado,18,colorado,PAC12
+utah,94,utah,BIG12
+arizona,57,arizona,BIG12
+arizonastate,58,arizona,BIG12
+colorado,18,colorado,BIG12
+ucf,40,ucf,BIG12
+houston,41,houston,BIG12
+byu,42,byu,BIG12
+cincinnati,43,cincinnati,BIG12

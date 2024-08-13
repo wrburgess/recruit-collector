@@ -7,11 +7,11 @@ namespace :scraper do
   task :get_player_data do
     recruit_year = 2024
     header = "name,class,pos,rate,star,school,conf,year\n"
-    file = "#{Rails.root}/db/2024_players_big10.csv"
+    file = "#{Rails.root}/db/2024_players_big12.csv"
     File.open(file, "w") do |csv|
       csv << header
 
-      CSV.foreach("#{Rails.root}/db/big10_schools.csv", :headers => :first_row) do |row|
+      CSV.foreach("#{Rails.root}/db/big12_schools.csv", :headers => :first_row) do |row|
         sleep(rand(3..10))
         url = render_school_url(recruit_year, row)
         puts url
