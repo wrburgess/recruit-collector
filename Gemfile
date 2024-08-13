@@ -1,13 +1,12 @@
 source 'https://rubygems.org'
+git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby "2.7.4"
-gem "nokogiri"
-gem "rails", "5.2.6"
-gem "pry"
-gem "byebug", "11.1.3"
+ruby file: '.tool-versions'
+gem "rails", "7.2.0"
+gem "sqlite3"
 
 group :development, :test do
-  # gem "debugger"
+  gem 'debug', '1.9.2'
 end
 
 # https://rivals.yahoo.com/footballrecruiting/football/recruiting/commitments/2015/cincinnati-98
