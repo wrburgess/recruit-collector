@@ -5,7 +5,7 @@ ruby file: '.tool-versions'
 gem "rails", "7.2.0"
 
 gem 'csv', '3.3.0'
-gem "sqlite3", "2.0.3"
+gem "sqlite3", "2.0.4"
 
 group :development, :test do
   gem 'debug', '1.9.2'
